@@ -2,8 +2,8 @@ title:            Emerging Researchers in Exoplanet Science Symposium
 description:     
 disqus_shortname: 
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://localhost:4000
-url:             http://eres-symposium.org
+url:              http://localhost:4000
+#url:             http://eres-symposium.org
 
 # Owner/author information
 owner:
@@ -12,7 +12,7 @@ owner:
   bio:            Emerging Researchers in Exoplanet Science Symposium 
   email:          rcm242@psu.edu
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        https://twitter.com/ERESsym
   facebook:       
   github:         
   stackexchange:  
@@ -35,11 +35,19 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Preregister/Join Email List 
+  - title: Register
+    url: /reg.html
+  - title: Submit an Abstract
+    url: /abstract.html
+  - title: Travel and Accomodations 
+    url: /travel.html
+  - title: Dining and Local Info
+    url: /local/
+  - title: Join Email List 
     url: /emailform/
   - title: RSS
     url: /feed.xml
-  - title: Penn State Astronomy & Astrophysics
+  - title: Penn State Astronomy and Astrophysics
     url: http://astro.psu.edu
     external: true
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

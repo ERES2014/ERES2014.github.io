@@ -2,48 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Emerging Researchers in Exoplanet Science Symposium</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://eres-symposium.org/feed.xml" />
-<link rel="alternate" type="text/html" href="http://eres-symposium.org" />
-<updated>2014-11-12T14:27:38-05:00</updated>
-<id>http://eres-symposium.org/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-11-14T18:11:26-05:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>ERES</name>
-  <uri>http://eres-symposium.org/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>rcm242@psu.edu</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Pre-registration is Open!]]></title>
- <link rel="alternate" type="text/html" href="http://eres-symposium.org/pre-registration-is-open/" />
-  <id>http://eres-symposium.org/pre-registration-is-open</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/pre-registration-is-open/" />
+  <id>http://localhost:4000/pre-registration-is-open</id>
   <published>2014-05-21T00:00:00-04:00</published>
   <updated>2014-05-21T00:00:00-04:00</updated>
   <author>
     <name>ERES</name>
-    <uri>http://eres-symposium.org</uri>
+    <uri>http://localhost:4000</uri>
     <email>rcm242@psu.edu</email>
   </author>
   <content type="html">&lt;p&gt;Help us plan for next May by taking a moment to &lt;a href=&quot;/emailform/&quot;&gt;pre-register and sign up on our mailing list&lt;/a&gt;. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://eres-symposium.org/pre-registration-is-open/&quot;&gt;Pre-registration is Open!&lt;/a&gt; was originally published by ERES at &lt;a href=&quot;http://eres-symposium.org&quot;&gt;Emerging Researchers in Exoplanet Science Symposium&lt;/a&gt; on May 21, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/pre-registration-is-open/&quot;&gt;Pre-registration is Open!&lt;/a&gt; was originally published by ERES at &lt;a href=&quot;http://localhost:4000&quot;&gt;Emerging Researchers in Exoplanet Science Symposium&lt;/a&gt; on May 21, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Hello world]]></title>
- <link rel="alternate" type="text/html" href="http://eres-symposium.org/hello-word/" />
-  <id>http://eres-symposium.org/hello-word</id>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/hello-word/" />
+  <id>http://localhost:4000/hello-word</id>
   <published>2014-05-19T00:00:00-04:00</published>
   <updated>2014-05-19T00:00:00-04:00</updated>
   <author>
     <name>ERES</name>
-    <uri>http://eres-symposium.org</uri>
+    <uri>http://localhost:4000</uri>
     <email>rcm242@psu.edu</email>
   </author>
   <content type="html">&lt;p&gt;More details coming soon! Check this space for updates or subscribe to our &lt;a href=&quot;http://eres2014.github.io/feed.xml&quot;&gt;RSS feed&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://eres-symposium.org/hello-word/&quot;&gt;Hello world&lt;/a&gt; was originally published by ERES at &lt;a href=&quot;http://eres-symposium.org&quot;&gt;Emerging Researchers in Exoplanet Science Symposium&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/hello-word/&quot;&gt;Hello world&lt;/a&gt; was originally published by ERES at &lt;a href=&quot;http://localhost:4000&quot;&gt;Emerging Researchers in Exoplanet Science Symposium&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
