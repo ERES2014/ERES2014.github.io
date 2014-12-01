@@ -25,3 +25,9 @@ Visitors Bureau</a> online.
 
 Dining
 ------
+
+
+
+Walking Route Between Days Inn and Conference Site
+--------------------------------------------------
+<iframe src="https://www.google.com/maps/embed?pb=!1m29!1m12!1m3!1d6040.9273513625585!2d-77.8695919565871!3d40.79580358033324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m14!1i0!3e2!4m5!1s0x89cea8a218acb4b7%3A0xed573d73f1845079!2sDays+Inn+State+College%2C+240+S+Pugh+St%2C+State+College%2C+PA+16801!3m2!1d40.793547!2d-77.858408!4m5!1s0x89cea67bfb92c563%3A0x1bcced81e460c7ad!2sThe+Nittany+Lion+Inn+of+the+Pennsylvania+State+University%2C+200+W+Park+Ave%2C+State+College%2C+PA+16803!3m2!1d40.797247!2d-77.87080499999999!5e0!3m2!1sen!2sus!4v1415999012389" width="600" height="450" frameborder="0" style="border:0"></iframe>

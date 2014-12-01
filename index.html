@@ -10,12 +10,18 @@ image:
   creditlink: 
 ---
 
-<h3>We are pleased to announce the first annual Emerging Researchers in Exoplanet Science Symposium (ERES) to be held May 28 & 29, 2015 at the Pennsylvania State University in University Park, PA.  ERES is aimed at early career scientists (graduate student, postdoc, advance undergraduate) working in all branches of exoplanetary science and related disciplines (e.g., brown dwarfs, protoplanetary disks, star formation, related instrumentation and theory).  Its purpose is to give these emerging researchers the opportunity to present their research to an interested audience, to provide plenty of opportunities to network with peers, and to enhance collaborations within exoplanet community.  ERES will be held annually on a rotating basis between partner institutions. </h3><p>
+We are pleased to announce the first annual Emerging Researchers in Exoplanet Science Symposium (ERES) to be held May 28 & 29, 2015 at the Pennsylvania State University in University Park, PA.  ERES is aimed at early career scientists (graduate student, postdoc, advance undergraduate) working in all branches of exoplanetary science and related disciplines (e.g., brown dwarfs, protoplanetary disks, star formation, related instrumentation and theory).  Its purpose is to give these emerging researchers the opportunity to present their research to an interested audience, to provide plenty of opportunities to network with peers, and to enhance collaborations within exoplanet community.  ERES will be held annually on a rotating basis between partner institutions. <p>
 <p>
 
-<h2><a href="{{ site.url }}/reg.html">Register</a> for the 2015 meeting at Penn State.</h2><p>
-<h2>Submit an <a href="{{ site.url }}/abstract.html">Abstract</a></h2><p>
+<h2><a style="color: rgb(51, 102, 153)"href="{{ site.url }}/reg.html">Register</a> for the 2015 meeting at Penn State.</h2>
+<br>Early Registration Deadline: January 30th, 2015 - $35.00<br>
+Regular Registration Deadline:  March 26th, 2015 - $45.00<br>
+Late Registration Deadline: May 8th, 2015 - $60.00
 <p>
+<h2>Submit an <a style="color: rgb(51, 102, 153)"href="{{ site.url }}/abstract.html">Abstract</a></h2>
+Due by March 26th, 2015
+<h2><a style="color: rgb(51, 102, 153)"href="{{ site.url }}/travel.html">Travel and Accommodations</a></h2>
+Conference rate booking deadline is April 27th, 2015.
 <h2>Future Meetings</h2><p>
 <h3>2016 Cornell University, Ithaca, NY<br>
     2017 Yale University, New Haven, CT</h3>
@@ -25,11 +31,11 @@ image:
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
-    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}</div><!-- /.entry-meta -->
+    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a style="color: rgb(51, 102, 153)"href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span><span class="author vcard"><span class="fn"><a style="color: rgb(51, 102, 153)"href="{{ site.url }}/about/" title="About {{ site.owner.name }}">{{ site.owner.name }}</a></span></span>{% if site.disqus_shortname and post.comments %}&nbsp; &bull; &nbsp;<span class="entry-comments"><a style="color: rgb(51, 102, 153)"href="{{ site.url }}{{ post.url }}#disqus_thread">Comment</a></span>{% endif %}</div><!-- /.entry-meta -->
     {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a style="color: rgb(51, 102, 153)"href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"><i class="icon-double-angle-right"></i></a> <a style="color: rgb(51, 102, 153)"href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+      <h1 class="entry-title"><a style="color: rgb(51, 102, 153)"href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
   <div class="entry-content">
@@ -41,9 +47,9 @@ image:
 <div class="pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="{{ site.url }}" class="btn">Previous</a>
+      <a style="color: rgb(51, 102, 153)"href="{{ site.url }}" class="btn">Previous</a>
     {% else %}
-      <a href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
+      <a style="color: rgb(51, 102, 153)"href="{{ site.url }}/page{{ paginator.previous_page }}" class="btn">Previous</a>
     {% endif %}
   {% else %}
     Previous
@@ -53,7 +59,7 @@ image:
       {% if paginator.page == 1 %}
         <span class="current-page">1</span>
       {% else %}
-        <a href="{{ site.url }}">1</a>
+        <a style="color: rgb(51, 102, 153)"href="{{ site.url }}">1</a>
       {% endif %}
     </li>
     {% for count in (2..paginator.total_pages) %}
@@ -61,13 +67,13 @@ image:
         {% if count == paginator.page %}
           <span class="current-page">{{ count }}</span>
         {% else %}
-          <a href="{{ site.url }}/page{{ count }}">{{ count }}</a>
+          <a style="color: rgb(51, 102, 153)"href="{{ site.url }}/page{{ count }}">{{ count }}</a>
         {% endif %}
       </li>
     {% endfor %}
   </ul>
   {% if paginator.next_page %}
-    <a href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
+    <a style="color: rgb(51, 102, 153)"href="{{ site.url }}/page{{ paginator.next_page }}" class="btn">Next</a>
   {% else %}
     Next
   {% endif %}
