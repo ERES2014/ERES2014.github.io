@@ -9,5 +9,5 @@ image:
   creditlink: 
 ---
 
-You can find a PDF of the conference poster at http://eres-symposium.org/ERESS_Poster.pdf to advertise ERES around your department. 
+You can find a PDF of the conference poster at [eres-symposium.org/ERESS_Poster.pdf](ERESS_Poster.pdf) to advertise ERES around your department. 
 
