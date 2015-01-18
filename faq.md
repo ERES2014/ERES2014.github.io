@@ -30,6 +30,10 @@ Q:  Will the talks be arranged in sessions? Or will every talk be a stand alone?
 ---
 A:  The talks will be arranged in sessions of related scientific topics.  However, we're not asking speakers to coordinate their talks.  
 
-Q:  How many people are expecting, or preparing for?
+Q:  How many people are you expecting, or preparing for?
 --- 
 A:  We have reserved a venue that accommodates up to 150 people.  
+
+Q: My question is not here in FAQ, what do I do now?
+---
+A: Email your question to [l-eres-questions@lists.psu.edu](mailto:l-eres-questions@lists.psu.edu), and we will get back to you promptly. 
