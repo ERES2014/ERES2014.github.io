@@ -4,13 +4,37 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://eres-symposium.org/feed.xml" />
 <link rel="alternate" type="text/html" href="http://eres-symposium.org" />
-<updated>2014-12-08T13:27:36-05:00</updated>
+<updated>2015-01-31T16:37:49-05:00</updated>
 <id>http://eres-symposium.org/</id>
 <author>
   <name>ERES</name>
   <uri>http://eres-symposium.org/</uri>
   <email>rcm242@psu.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Check Out Our New FAQ!]]></title>
+ <link rel="alternate" type="text/html" href="http://eres-symposium.org/check-out-our-new-faq/" />
+  <id>http://eres-symposium.org/check-out-our-new-faq</id>
+  <published>2015-01-18T00:00:00-05:00</published>
+  <updated>2015-01-18T00:00:00-05:00</updated>
+  <author>
+    <name>ERES</name>
+    <uri>http://eres-symposium.org</uri>
+    <email>rcm242@psu.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Do you have questions about ERESS? Now The answers can be found on our shiny new &lt;a href=&quot;/faq/&quot;&gt;FAQ&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;But, wait, what if my question isn’t in the &lt;a href=&quot;/faq/&quot;&gt;FAQ&lt;/a&gt;? We got you covered! Shoot us an email at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#045;&amp;#101;&amp;#114;&amp;#101;&amp;#115;&amp;#045;&amp;#113;&amp;#117;&amp;#101;&amp;#115;&amp;#116;&amp;#105;&amp;#111;&amp;#110;&amp;#115;&amp;#064;&amp;#108;&amp;#105;&amp;#115;&amp;#116;&amp;#115;&amp;#046;&amp;#112;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&quot;&gt;&amp;#108;&amp;#045;&amp;#101;&amp;#114;&amp;#101;&amp;#115;&amp;#045;&amp;#113;&amp;#117;&amp;#101;&amp;#115;&amp;#116;&amp;#105;&amp;#111;&amp;#110;&amp;#115;&amp;#064;&amp;#108;&amp;#105;&amp;#115;&amp;#116;&amp;#115;&amp;#046;&amp;#112;&amp;#115;&amp;#117;&amp;#046;&amp;#101;&amp;#100;&amp;#117;&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;See you in May! &lt;/p&gt;
+
+&lt;p&gt;-The OC&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://eres-symposium.org/check-out-our-new-faq/&quot;&gt;Check Out Our New FAQ!&lt;/a&gt; was originally published by ERES at &lt;a href=&quot;http://eres-symposium.org&quot;&gt;Emerging Researchers in Exoplanet Science Symposium&lt;/a&gt; on January 18, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>

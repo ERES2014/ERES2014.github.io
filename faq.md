@@ -12,7 +12,7 @@ share: true
 
 Q:  How does ERES differ from a typical conference?
 ---
-A:  The ERES meeting is explicitly designed for and by "emerging" researchers, including undergraduates, graduate students, postdocs.  We envision that the vast majority of the scientific talks will be given by postdocs and PhD students.  While most of the time will be devoted to scientific talks, the graduate students and postdocs that make up the organizing committee are also planning a few panel and lunch discussions on professional development topics, likely including proposal writing, career experiences and work-life balance.  (If you'd be interested in serving as a table discussion moderator, let us know at [l-eres-questions@lists.psu.edu](mailto:l-eres-questions@lists.psu.edu).)
+A:  The ERES meeting is explicitly designed for and by "emerging" researchers, including undergraduates, graduate students, postdocs.  We envision that the vast majority of the scientific talks will be given by postdocs and PhD students.  While most of the time will be devoted to scientific talks, the graduate students and postdocs that make up the organizing committee are also planning a few panel and lunch discussions on professional development topics, likely including proposal writing, career experiences and work-life balance.  (If you'd be interested in serving as a table discussion moderator, let us know at [L-ERES-2015-QUESTIONS@lists.psu.edu](mailto:L-ERES-2015-QUESTIONS@lists.psu.edu).
 
 Q:  Will it is just be postdocs and PhD students?
 ---
@@ -36,4 +36,4 @@ A:  We have reserved a venue that accommodates up to 150 people.
 
 Q: My question is not here in FAQ, what do I do now?
 ---
-A: Email your question to [l-eres-questions@lists.psu.edu](mailto:l-eres-questions@lists.psu.edu), and we will get back to you promptly. 
+A: Email your question to [L-ERES-2015-QUESTIONS@lists.psu.edu](mailto:L-ERES-2015-QUESTIONS@lists.psu.edu), and we will get back to you promptly. 

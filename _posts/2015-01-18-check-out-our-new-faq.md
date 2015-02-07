@@ -11,7 +11,7 @@ image:
 
 Do you have questions about ERESS? Now The answers can be found on our shiny new [FAQ](/faq/)!
 
-But, wait, what if my question isn't in the [FAQ](/faq/)? We got you covered! Shoot us an email at [l-eres-questions@lists.psu.edu](mailto:l-eres-questions@lists.psu.edu) 
+But, wait, what if my question isn't in the [FAQ](/faq/)? We got you covered! Shoot us an email at [L-ERES-2015-QUESTIONS@lists.psu.edu](mailto:L-ERES-2015-QUESTIONS@lists.psu.edu) 
 
 See you in May! 
 
