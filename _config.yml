@@ -38,8 +38,8 @@ bing_verify:
 links:
   - title: Register
     url: /reg.html
-  - title: Submit an Abstract
-    url: /abstract.html
+  #- title: Submit an Abstract
+  #  url: /abstract.html
   - title: FAQ
     url: /faq/
   - title: Travel and Accomodations 
