@@ -17,7 +17,7 @@ The booking infomation for the conference hotels is below. More details can be f
 
 #####The Nittany Lion Inn (The Conference Site)<br>
 $125.00 plus hotel occupancy tax for both single/double occupancy<br>
-Book your room at [www.pennstatehotels.com](www.pennstatehotels.com) or by calling 800-233-7505<br>
+Book your room at [www.pennstatehotels.com](http://www.pennstatehotels.com) or by calling 800-233-7505<br>
 The block code is PENE15H<br>
 
 #####Days Inn State College
