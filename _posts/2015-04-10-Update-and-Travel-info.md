@@ -23,7 +23,7 @@ The block code is PENE15H<br>
 #####Days Inn State College
 Days Inn (a twenty minute walk to the conference site)<br> 
 $86.00 a night plus taxes (The price goes to $116.00 for Friday night)<br>
-[Book your room here](http://www.daysinn.com/hotels/pennsylvania/state-college/days-inn-penn-state/hotel-overview") or call 1-800-329-7466<br>
+[Book your room here](http://www.daysinn.com/hotels/pennsylvania/state-college/days-inn-penn-state/hotel-overview") or call 814-238-8454<br>
 The block code is CGERES<br>
 
 We are looking forward to seeing you in May at Penn State! 
