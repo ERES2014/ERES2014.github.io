@@ -15,14 +15,14 @@ When planning your trip to State College, keep in mind that the group rates for 
 
 The booking infomation for the conference hotels is below. More details can be found on our [Travel](/travel.html) page at [http://eres-symposium.org/](http://eres-symposium.org/)
 
-#####The Nittany Lion Inn (The Conference Site)<br>
+##The Nittany Lion Inn (The Conference Site)<br>
 $125.00 plus hotel occupancy tax for both single/double occupancy<br>
 Book your room at [www.pennstatehotels.com](http://www.pennstatehotels.com) or by calling 800-233-7505<br>
 The block code is PENE15H<br>
 <h3>Update April 20th<br>
 The Nittany Lion Inn has no more rooms for Friday evening. If you plan to stay in State College overnight on Friday the 29th, you may want to book at the Days Inn.<br></h3> 
 
-#####Days Inn State College
+##Days Inn State College
 Days Inn (a twenty minute walk to the conference site)<br> 
 $86.00 a night plus taxes (The price goes to $116.00 for Friday night)<br>
 To make your reservation, call the hotel directly at 814-238-8454.<br>
