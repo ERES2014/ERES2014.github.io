@@ -20,7 +20,7 @@ $125.00 plus hotel occupancy tax for both single/double occupancy<br>
 Book your room at [www.pennstatehotels.com](http://www.pennstatehotels.com) or by calling 800-233-7505<br>
 The block code is PENE15H<br>
 <h3>Update April 20th<br>
-The Nittany Lion Inn has no more rooms for Friday evening. If you plan to stay in State College overnight on Friday the 29th, you may want to book at the Days Inn.<br><h3> 
+The Nittany Lion Inn has no more rooms for Friday evening. If you plan to stay in State College overnight on Friday the 29th, you may want to book at the Days Inn.<br></h3> 
 
 #####Days Inn State College
 Days Inn (a twenty minute walk to the conference site)<br> 
