@@ -10,7 +10,7 @@ image:
 share: true
 ---
 
-##Thursday May 29th
+##Thursday May 28th
 
 Time | Program
 ------|-----------
