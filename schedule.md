@@ -17,7 +17,7 @@ Time | Program
  | 
 **8:30**|**Opening and Introduction**
  | 
-**8:45**|**Stellar Characterization**<br>Sesion Chair: Taran Esplin
+**8:45**|**Stellar Characterization**<br>Session Chair: Taran Esplin
 8:45|*Accessing the fundamental properties of young stars*<br>Ian Czekala
 9:00|*Defining the Range of Chemistry for Exoplanet Interiors*<br>John Brewer
 9:15|*Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE*<br>Nicholas Troup
@@ -25,7 +25,7 @@ Time | Program
  | 
 **9:45**|**Coffee Break**
  | 
-**10:15**|**Planetary Atmospheres I**<br>Sesion Chair: Natasha Batalha
+**10:15**|**Planetary Atmospheres I**<br>Session Chair: Natasha Batalha
 10:15|*Hubble Space Telescope Spectroscopy of WISE Detected Brown Dwarfs*<br>Adam C. Schneider
 10:30|*Hot Jupiter Atmospheres Revealed with HST/WFC3*<br>Laura Kreidberg
 10:45|*Emission and Phase Curves from 3D Exoplanet Atmospheres*<br>Y. Katherina Feng
@@ -34,7 +34,7 @@ Time | Program
  | 
 **12:00**|**Lunch**
  | 
-**1:30**|**Planetary Atmospheres II**<br>Sesion Chair: Ramses Ramirez
+**1:30**|**Planetary Atmospheres II**<br>Session Chair: Ramses Ramirez
 1:30|*The Pale Orange Dot: The Climactic and Spectral Effects of Haze in Archaen Earth's Atmosphere*<br>Giada Arney
 1:45|*The robustness of using near-UV observations to detect and study exoplanet magnetic fields*<br>Jake Turner
 2:00|*Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results*<br>Catherine Huitson
@@ -44,7 +44,7 @@ Time | Program
  | 
 **3:00**|**Coffee Break**
  | 
-**3:30**|**Multiple Planet Systems**<br>Sesion Chair: Thomas Beatty
+**3:30**|**Multiple Planet Systems**<br>Session Chair: Thomas Beatty
 3:30|*Precise Planetary Masses, Radii and Orbital Eccentricities of Sub-Neptunes from Transit Timing*<br>Daniel Jontof-Hutter
 3:45|*On the Origin and Evolution of the Kepler-36 System*<br>Thomas Rimlinger
 4:00|*SPACING OF KEPLER PLANETS: SCUPLTING BY DYNAMICAL INSTABILITY*<br>Bonan (Michael) Pu
@@ -61,7 +61,7 @@ Time | Program
 Time | Program
 ------|-----------
  | 
-**8:30**|**Instrumentation**<br>Sesion Chair: Joseph Schmitt
+**8:30**|**Instrumentation**<br>Session Chair: Joseph Schmitt
 8:30|*The Habitable-zone Planet Finder Instrument: Pushing the Limits of Exoplanet Detection in the Near-Infrared*<br>Sam Halverson
 8:45|*--*<br>Gudmundur Stefansson
 9:00|*Improve RV Precision through Better Spectral Modeling and Better Reference Spectra*<br>Sharon Xuesong Wang
@@ -77,7 +77,7 @@ Time | Program
  | 
 **12:00**|**Lunch**
  | 
-**1:30**|**Statistical Characterization**<br>Sesion Chair: Benjamin Nelson
+**1:30**|**Statistical Characterization**<br>Session Chair: Benjamin Nelson
 1:30|*Systematics-insensitive periodic signal search with K2*<br>Ruth Angus
 1:45|*A Catalog of Transit Timing Posterior Distributions for all Kepler Planet Candidate Events*<br>Benjamin Montet
 2:00|*Towards a Galactic Distribution of Exoplanets*<br>Matthew Penny
@@ -87,7 +87,7 @@ Time | Program
  | 
 **3:00**|**Coffee Break**
  | 
-**3:30**|**Planet Formation**<br>Sesion Chairs: Kim Cartier, Rachel Worth
+**3:30**|**Planet Formation**<br>Session Chairs: Kim Cartier, Rachel Worth
 3:30|*Planet Formation in Binary Systems - how Solid is the 1 km Barrier?*<br>Kedron Silsbee
 3:45|*Effects of Disk Photoevaporation on Planet Migration*<br>Alexander W. Wise
 4:00|*Vortices in Dead Zones of Protoplanetary Disks*<br>Ryan Miranda
