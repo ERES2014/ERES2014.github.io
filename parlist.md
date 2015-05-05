@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /parlist/
-title: ERES 2015 schedule
+title: ERES 2015 Participants 
 tags: [info]
 image:
   feature: banner.jpg

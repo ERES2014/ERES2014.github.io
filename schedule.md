@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: ERES 2015 schedule
+title: ERES 2015 Schedule
 tags: [info]
 image:
   feature: banner.jpg
