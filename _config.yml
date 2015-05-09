@@ -36,8 +36,8 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Register
-    url: /reg.html
+  #- title: Register
+  #  url: /reg.html
   - title: Schedule
     url: /schedule/
   - title: Participants
