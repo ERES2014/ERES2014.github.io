@@ -9,7 +9,8 @@ image:
   creditlink: 
 share: true
 ---
-##Oral Presentations
+#Oral Presentations
+
 ##Thursday May 28th
 
 
@@ -19,37 +20,37 @@ Time | | Program
 **8:30**| |**Opening and Introduction**
  | | 
 **8:45**| |**Stellar Characterization**<br>Session Chair: Taran Esplin
-8:45| |*[Accessing the fundamental properties of young stars]("14")*<br>Ian Czekala
-9:00| |*[Defining the Range of Chemistry for Exoplanet Interiors]("60")*<br>John Brewer
-9:15| |*[Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE]("46")*<br>Nicholas Troup
-9:30| |*[Re-characterization of a gravity-darkened and precessing  planetary system PTFO 8-8695]("34")*<br>Shoya Kamiaka
+8:45| |*<A HREF="14">Accessing the fundamental properties of young stars</A>*<br>Ian Czekala
+9:00| |*<A HREF="60">Defining the Range of Chemistry for Exoplanet Interiors</A>*<br>John Brewer
+9:15| |*<A HREF="46">Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE</A>*<br>Nicholas Troup
+9:30| |*<A HREF="34">Re-characterization of a gravity-darkened and precessing  planetary system PTFO 8-8695</A>*<br>Shoya Kamiaka
  | | 
 **9:45**| |**Coffee Break**
  | | 
 **10:15**| |**Planetary Atmospheres I**<br>Session Chair: Natasha Batalha
-10:15| |*[Hubble Space Telescope Spectroscopy of WISE Detected Brown Dwarfs]("54")*<br>Adam C. Schneider
-10:30| |*[Hot Jupiter Atmospheres Revealed with HST/WFC3]("21")*<br>Laura Kreidberg
-10:45| |*[Emission and Phase Curves from 3D Exoplanet Atmospheres]("38")*<br>Y. Katherina Feng
+10:15| |*<A HREF="54">Hubble Space Telescope Spectroscopy of WISE Detected Brown Dwarfs</A>*<br>Adam C. Schneider
+10:30| |*<A HREF="21">Hot Jupiter Atmospheres Revealed with HST/WFC3</A>*<br>Laura Kreidberg
+10:45| |*<A HREF="38">Emission and Phase Curves from 3D Exoplanet Atmospheres</A>*<br>Y. Katherina Feng
  | | 
 **11:00**| |**Proposal Writing Panel**<br>James Owen, Hubble Fellow; Laura Kreidberg, NSF Graduate Research Fellow; Brian Hicks, NASA Postdoctoral Program Fellow; Daniel Foreman-Mackey, Sagan Fellow
  | | 
 **12:00**| |**Lunch**
  | | 
 **1:30**| |**Planetary Atmospheres II**<br>Session Chair: Ramses Ramirez
-1:30| |*[The Pale Orange Dot: The Climactic and Spectral Effects of Haze in Archaen Earth's Atmosphere]("3")*<br>Giada Arney
-1:45| |*[The robustness of using near-UV observations to detect and study exoplanet magnetic fields]("4")*<br>Jake Turner
-2:00| |*[Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results]("26")*<br>Catherine Huitson
-2:15| |*[Hot and Heavy: Transiting Brown Dwarfs]("36")*<br>Thomas Beatty
+1:30| |*<A HREF="3">The Pale Orange Dot: The Climactic and Spectral Effects of Haze in Archaen Earth's Atmosphere</A>*<br>Giada Arney
+1:45| |*<A HREF="4">The robustness of using near-UV observations to detect and study exoplanet magnetic fields</A>*<br>Jake Turner
+2:00| |*<A HREF="26">Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results</A>*<br>Catherine Huitson
+2:15| |*<A HREF="36">Hot and Heavy: Transiting Brown Dwarfs</A>*<br>Thomas Beatty
  | | 
 **2:30**| |**Poster Pops**
  | | 
 **3:00**| |**Coffee Break**
  | | 
 **3:30**| |**Multiple Planet Systems**<br>Session Chair: Thomas Beatty
-3:30| |*[Precise Planetary Masses, Radii and Orbital Eccentricities of Sub-Neptunes from Transit Timing]("11")*<br>Daniel Jontof-Hutter
-3:45| |*[On the Origin and Evolution of the Kepler-36 System]("20")*<br>Thomas Rimlinger
-4:00| |*[SPACING OF KEPLER PLANETS: SCUPLTING BY DYNAMICAL INSTABILITY]("7")*<br>Bonan (Michael) Pu
-4:15| |*[IMPLICATIONS FOR THE FALSE-POSITIVE RATE IN KEPLER PLANET SYSTEMS FROM TRANSIT DURATION RATIOS]("49")*<br>Robert C. Morehead
+3:30| |*<A HREF="11">Precise Planetary Masses, Radii and Orbital Eccentricities of Sub-Neptunes from Transit Timing</A>*<br>Daniel Jontof-Hutter
+3:45| |*<A HREF="20">On the Origin and Evolution of the Kepler-36 System</A>*<br>Thomas Rimlinger
+4:00| |*<A HREF="7">SPACING OF KEPLER PLANETS: SCUPLTING BY DYNAMICAL INSTABILITY</A>*<br>Bonan (Michael) Pu
+4:15| |*<A HREF="49">IMPLICATIONS FOR THE FALSE-POSITIVE RATE IN KEPLER PLANET SYSTEMS FROM TRANSIT DURATION RATIOS</A>*<br>Robert C. Morehead
  | | 
 **4:30**| |**Poster Pops**
  | | 
@@ -64,12 +65,12 @@ Time | | Program
 Time | | Program
 ------|------|-----------
 **8:30**| |**Instrumentation**<br>Session Chair: Joseph Schmitt
-8:30| |*[The Habitable-zone Planet Finder Instrument: Pushing the Limits of Exoplanet Detection in the Near-Infrared]("47")*<br>Sam Halverson
-8:45| |*[--]("59")*<br>Gudmundur Stefansson
-9:00| |*[Improve RV Precision through Better Spectral Modeling and Better Reference Spectra]("48")*<br>Sharon Xuesong Wang
-9:15| |*[First exoplanet transit observations with SOFIA]("27")*<br>Daniel Angerhausen
-9:30| |*[Suborbital Demonstrations of Starshades]("40")*<br>Anthony Harness
-9:45| |*[Multiband nulling coronography]("24")*<br>Brian A. Hicks
+8:30| |*<A HREF="47">The Habitable-zone Planet Finder Instrument: Pushing the Limits of Exoplanet Detection in the Near-Infrared</A>*<br>Sam Halverson
+8:45| |*<A HREF="59">--</A>*<br>Gudmundur Stefansson
+9:00| |*<A HREF="48">Improve RV Precision through Better Spectral Modeling and Better Reference Spectra</A>*<br>Sharon Xuesong Wang
+9:15| |*<A HREF="27">First exoplanet transit observations with SOFIA</A>*<br>Daniel Angerhausen
+9:30| |*<A HREF="40">Suborbital Demonstrations of Starshades</A>*<br>Anthony Harness
+9:45| |*<A HREF="24">Multiband nulling coronography</A>*<br>Brian A. Hicks
  | | 
 **10:00**| |**Coffee Break**
  | | 
@@ -80,75 +81,75 @@ Time | | Program
 **12:00**| |**Lunch**
  | | 
 **1:30**| |**Statistical Characterization**<br>Session Chair: Benjamin Nelson
-1:30| |*[Systematics-insensitive periodic signal search with K2]("33")*<br>Ruth Angus
-1:45| |*[A Catalog of Transit Timing Posterior Distributions for all Kepler Planet Candidate Events]("10")*<br>Benjamin Montet
-2:00| |*[Towards a Galactic Distribution of Exoplanets]("44")*<br>Matthew Penny
-2:15| |*[Constraining the Demographics of Exoplanets Using Results from Multiple Detection Methods]("58")*<br>Christian Clanton
-2:30| |*[Sifting Through the Noise - Recalculating the Frequency of Earth-Sized Planets Around Kepler-Stars]("2")*<br>Ari Silburt
-2:45| |*[A population-based Habitable Zone perspective]("1")*<br>Andras Zsom
+1:30| |*<A HREF="33">Systematics-insensitive periodic signal search with K2</A>*<br>Ruth Angus
+1:45| |*<A HREF="10">A Catalog of Transit Timing Posterior Distributions for all Kepler Planet Candidate Events</A>*<br>Benjamin Montet
+2:00| |*<A HREF="44">Towards a Galactic Distribution of Exoplanets</A>*<br>Matthew Penny
+2:15| |*<A HREF="58">Constraining the Demographics of Exoplanets Using Results from Multiple Detection Methods</A>*<br>Christian Clanton
+2:30| |*<A HREF="2">Sifting Through the Noise - Recalculating the Frequency of Earth-Sized Planets Around Kepler-Stars</A>*<br>Ari Silburt
+2:45| |*<A HREF="1">A population-based Habitable Zone perspective</A>*<br>Andras Zsom
  | | 
 **3:00**| |**Coffee Break**
  | | 
 **3:30**| |**Planet Formation**<br>Session Chair: Kim Cartier, Rachel Worth
-3:30| |*[Planet Formation in Binary Systems - how Solid is the 1 km Barrier?]("17")*<br>Kedron Silsbee
-3:45| |*[Effects of Disk Photoevaporation on Planet Migration]("9")*<br>Alexander W. Wise
-4:00| |*[Vortices in Dead Zones of Protoplanetary Disks]("53")*<br>Ryan Miranda
-4:15| |*[Dynamical stability of imaged planetary systems in formation: Application to HL Tau]("12")*<br>Daniel Tamayo
-4:30| |*[Formation of Misaligned Hot Jupiters in Stellar Binaries]("16")*<br>Kassandra Anderson
-4:45| |*[Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations]("19")*<br>Natalia I. Storch
-5:00| |*[Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley]("13")*<br>David Tsang
-5:15| |*[The Habitable Zones of Pre-Main-Sequence Stars]("5")*<br>Ramses Ramirez
+3:30| |*<A HREF="17">Planet Formation in Binary Systems - how Solid is the 1 km Barrier?</A>*<br>Kedron Silsbee
+3:45| |*<A HREF="9">Effects of Disk Photoevaporation on Planet Migration</A>*<br>Alexander W. Wise
+4:00| |*<A HREF="53">Vortices in Dead Zones of Protoplanetary Disks</A>*<br>Ryan Miranda
+4:15| |*<A HREF="12">Dynamical stability of imaged planetary systems in formation: Application to HL Tau</A>*<br>Daniel Tamayo
+4:30| |*<A HREF="16">Formation of Misaligned Hot Jupiters in Stellar Binaries</A>*<br>Kassandra Anderson
+4:45| |*<A HREF="19">Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations</A>*<br>Natalia I. Storch
+5:00| |*<A HREF="13">Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley</A>*<br>David Tsang
+5:15| |*<A HREF="5">The Habitable Zones of Pre-Main-Sequence Stars</A>*<br>Ramses Ramirez
  | | 
 **5:30**| |**Clean Up**
  | | 
 **6:00**| |**Leave for Dinner**
  | | 
 
-##Poster Presentations
+#Poster Presentations
 
 
 Presenter | | Title
 ------|----|-------
-Alex Richert| |*[Breaking the barrier: Simulations of rocky planetesimal formation in protoplanetary disks]("51")*
-Amaury Triaud| |*[Colour-Magnitude Diagrams for Transiting Exoplanets]("22")*
-Arpita Roy| |*[Planet Hunting with PARAS]("41")*
-Arthur Adams| |*[Empirical Radius/Temperature Fits for Cool Stars Using Interferometry]("74")*
-Ashlee Wilkins| |*[Transmission and Emission Spectra of WASP-18b as Seen by Hubble]("23")*
-Calen B. Henderson| |*[KMTNet: A Cold Exoplanet Census Through a Global Microlensing Survey]("25")*
-Daniel J. Stevens| |*[The KELT-North Transit Survey: Hot Planets around Hot, Bright Stars]("42")*
-Daniel Polsgrove| |*[Transit Studies with Small Telescopes: Educational Utility and Implications for Future Detection Surveys]("66")*
-Debanjan Sengupta| |*[Giant Planet Formation Through Disk Instability: A study on Dust Settling]("52")*
-Everett Schlawin| |*[The Unusual Disintegrating Planet Candidate KIC 125557548b: Additional Evidence for Large Particles in the Escaping Debris]("68")*
-Fabio Del Sordo| |*[Multifractal structures in radial velocity measurements for exoplanets]("43")*
-Gabriel Caceres| |*[Kepler AutoRegressive Planet Search]("77")*
-Holly Sheets| |*[Statistical Eclipses of Kepler Long Cadence Sub-Saturn Planet Candidates]("28")*
-James Owen| |*[Models of exoplanet evaporation]("29")*
-Jennifer Greco| |*[First Discoveries from the NEOWISE-Reactivation Proper Motion Survey]("55")*
-Jesica Trucks| |*[Photometric Variability of Y Dwarfs]("30")*
-Ji Wang| |*[Characterization of 53 Long-Period Exoplanet Candidates from the Kepler Archival Data]("75")*
-Joey Rodriguez| |*[Target Selection for the TESS Survey]("31")*
-Joseph Schmitt| |*[M-dwarf Planet Occurrence Rates out to Several Hundred Days Using the Citizen Science Program Planet Hunters]("71")*
-Julia DeMarines| |*[Particle Flux to Titan: Astrobiological Implications]("76")*
-Karna Desai| |*[Gravitational Instabilities in Circumbinary Protoplanetary Disks: Numerical 3D Hydrodynamics Study]("15")*
-Knicole Colon| |*[Improved Parameters for Transiting Exoplanets]("32")*
-Luan Ghezzi| |*[Characterizing Retired A Stars]("56")*
-Mark Veyette| |*[Testing the origin of compact exoplanetary systems around M dwarfs]("69")*
-Megan Shabram| |*[The Mass-Radius-Eccentricity Distribution of Near-Resonant Transiting Exoplanet Pairs Detected by Kepler]("18")*
-Michael Lund| |*[LSST Can Detect Transiting Exoplanets]("45")*
-Paige Giorla| |*[T Dwarf Model Fits at Low Spectral Resolution]("72")*
-Paul A. Dalba| |*[The Transit Transmission Spectrum of a Cold Gas Giant]("70")*
-Robert Loyd| |*[The Radiation Environment of Habitable-Zone Planets Orbiting Low-Mass Stars]("63")*
-Roger Anderson Hurtado Mojica| |*[Exoplanets detection by Gravitational Microlensing theory]("39")*
-Sarah Dodson-Robinson| |*[From Snowflakes to Snowballs: Bypassing the Bouncing Barrier in Planetesimal Formation]("50")*
-Steven J. Novotny| |*[Radial Velocity Measurements with Small Telescopes: Educational Utility for Future Exoplanet Researchers]("67")*
-Steven Villanueva Jr.| |*[Transits from the DEdicated MONitor of EXotransits (DEMONEX): Transits of XO-4b]("35")*
-Tabetha Boyajian| |*[TBD]("64")*
-Thea Kozakis| |*[Age-Rotation-Activity Relation for Kepler Field Stars]("73")*
-Wilson Cauley| |*[Pre-Transit Absorption Around HD 189733b and an Estimate of the Planetary Magnetic Field]("37")*
+Alex Richert| |*<A HREF="51">Breaking the barrier: Simulations of rocky planetesimal formation in protoplanetary disks</A>*
+Amaury Triaud| |*<A HREF="22">Colour-Magnitude Diagrams for Transiting Exoplanets</A>*
+Arpita Roy| |*<A HREF="41">Planet Hunting with PARAS</A>*
+Arthur Adams| |*<A HREF="74">Empirical Radius/Temperature Fits for Cool Stars Using Interferometry</A>*
+Ashlee Wilkins| |*<A HREF="23">Transmission and Emission Spectra of WASP-18b as Seen by Hubble</A>*
+Calen B. Henderson| |*<A HREF="25">KMTNet: A Cold Exoplanet Census Through a Global Microlensing Survey</A>*
+Daniel J. Stevens| |*<A HREF="42">The KELT-North Transit Survey: Hot Planets around Hot, Bright Stars</A>*
+Daniel Polsgrove| |*<A HREF="66">Transit Studies with Small Telescopes: Educational Utility and Implications for Future Detection Surveys</A>*
+Debanjan Sengupta| |*<A HREF="52">Giant Planet Formation Through Disk Instability: A study on Dust Settling</A>*
+Everett Schlawin| |*<A HREF="68">The Unusual Disintegrating Planet Candidate KIC 125557548b: Additional Evidence for Large Particles in the Escaping Debris</A>*
+Fabio Del Sordo| |*<A HREF="43">Multifractal structures in radial velocity measurements for exoplanets</A>*
+Gabriel Caceres| |*<A HREF="77">Kepler AutoRegressive Planet Search</A>*
+Holly Sheets| |*<A HREF="28">Statistical Eclipses of Kepler Long Cadence Sub-Saturn Planet Candidates</A>*
+James Owen| |*<A HREF="29">Models of exoplanet evaporation</A>*
+Jennifer Greco| |*<A HREF="55">First Discoveries from the NEOWISE-Reactivation Proper Motion Survey</A>*
+Jesica Trucks| |*<A HREF="30">Photometric Variability of Y Dwarfs</A>*
+Ji Wang| |*<A HREF="75">Characterization of 53 Long-Period Exoplanet Candidates from the Kepler Archival Data</A>*
+Joey Rodriguez| |*<A HREF="31">Target Selection for the TESS Survey</A>*
+Joseph Schmitt| |*<A HREF="71">M-dwarf Planet Occurrence Rates out to Several Hundred Days Using the Citizen Science Program Planet Hunters</A>*
+Julia DeMarines| |*<A HREF="76">Particle Flux to Titan: Astrobiological Implications</A>*
+Karna Desai| |*<A HREF="15">Gravitational Instabilities in Circumbinary Protoplanetary Disks: Numerical 3D Hydrodynamics Study</A>*
+Knicole Colon| |*<A HREF="32">Improved Parameters for Transiting Exoplanets</A>*
+Luan Ghezzi| |*<A HREF="56">Characterizing Retired A Stars</A>*
+Mark Veyette| |*<A HREF="69">Testing the origin of compact exoplanetary systems around M dwarfs</A>*
+Megan Shabram| |*<A HREF="18">The Mass-Radius-Eccentricity Distribution of Near-Resonant Transiting Exoplanet Pairs Detected by Kepler</A>*
+Michael Lund| |*<A HREF="45">LSST Can Detect Transiting Exoplanets</A>*
+Paige Giorla| |*<A HREF="72">T Dwarf Model Fits at Low Spectral Resolution</A>*
+Paul A. Dalba| |*<A HREF="70">The Transit Transmission Spectrum of a Cold Gas Giant</A>*
+Robert Loyd| |*<A HREF="63">The Radiation Environment of Habitable-Zone Planets Orbiting Low-Mass Stars</A>*
+Roger Anderson Hurtado Mojica| |*<A HREF="39">Exoplanets detection by Gravitational Microlensing theory</A>*
+Sarah Dodson-Robinson| |*<A HREF="50">From Snowflakes to Snowballs: Bypassing the Bouncing Barrier in Planetesimal Formation</A>*
+Steven J. Novotny| |*<A HREF="67">Radial Velocity Measurements with Small Telescopes: Educational Utility for Future Exoplanet Researchers</A>*
+Steven Villanueva Jr.| |*<A HREF="35">Transits from the DEdicated MONitor of EXotransits (DEMONEX): Transits of XO-4b</A>*
+Tabetha Boyajian| |*<A HREF="64">TBD</A>*
+Thea Kozakis| |*<A HREF="73">Age-Rotation-Activity Relation for Kepler Field Stars</A>*
+Wilson Cauley| |*<A HREF="37">Pre-Transit Absorption Around HD 189733b and an Estimate of the Planetary Magnetic Field</A>*
 
 ---
 
-##Submitted Abstracts
+#Submitted Abstracts
 
 
 Abstract|
