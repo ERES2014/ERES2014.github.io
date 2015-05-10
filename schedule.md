@@ -57,9 +57,9 @@ Time | | Program
  | | 
 **6:00**| |**Leave for Dinner**
  | | 
- 
+
 ##Friday May 29th
- 
+
 
 Time | | Program
 ------|------|-----------
@@ -103,11 +103,10 @@ Time | | Program
  | | 
 **6:00**| |**Leave for Dinner**
  | | 
- 
-<p>
-<p>
+
 ##Poster Presentations<p>
- 
+
+
 Presenter | | Title
 ------|----|-------
 Alex Richert| |*Breaking the barrier: Simulations of rocky planetesimal formation in protoplanetary disks*
@@ -146,10 +145,11 @@ Steven Villanueva Jr.| |*Transits from the DEdicated MONitor of EXotransits (DEM
 Tabetha Boyajian| |*TBD*
 Thea Kozakis| |*Age-Rotation-Activity Relation for Kepler Field Stars*
 Wilson Cauley| |*Pre-Transit Absorption Around HD 189733b and an Estimate of the Planetary Magnetic Field*
- 
+
 ---
 ##Submitted Abstracts
- 
+
+
 Abstract Number | | Abstract
 --------|-----|------
 1| |*A population-based Habitable Zone perspective*<br>**Andras Zsom**<p><p>What can we tell about exoplanet habitability if currently only the stellar properties, planet radius, and the incoming stellar flux are known? The Habitable Zone (HZ) is the region around stars where planets can harbor liquid water on their surfaces. The HZ is traditionally conceived as a sharp region around the star because it is calculated for one planet with specific properties e.g., Earth-like or desert planets , or rocky planets with H2 atmospheres. Such planet-specific approach is limiting because the planets’ atmospheric and geophysical properties, which influence the surface climate and the presence of liquid water, are currently unknown but expected to be diverse.A statistical HZ description is outlined which does not select one specific planet type. Instead the atmospheric and surface properties of exoplanets are treated as random variables and a continuous range of planet scenarios are considered. Various probability density functions are assigned to each observationally unconstrained random variable, and a combination of Monte Carlo sampling and climate modeling is used to generate synthetic exoplanet populations with known surface climates. Then, the properties of the liquid water bearing subpopulation is analyzed.Given our current observational knowledge of small exoplanets, the HZ takes the form of a weakly-constrained but smooth probability function. The model shows that the HZ has an inner edge: it is unlikely that planets receiving two-three times more stellar radiation than Earth can harbor liquid water. But a clear outer edge is not seen: a planet that receives a fraction of Earth's stellar radiation (1-10%) can be habitable, if the greenhouse effect of the atmosphere is strong enough. The main benefit of the population-based approach is that it will be refined over time as new data on exoplanets and their atmospheres become available.
