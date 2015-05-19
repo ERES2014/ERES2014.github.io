@@ -11,6 +11,7 @@ share: true
 ---
 
 
+
 Name | Affiliation
 ------|-----------
 Arthur Adams | Yale University
@@ -24,6 +25,7 @@ Thomas Beatty | Penn. State Univ.
 Tabetha Boyajian | Yale
 John Brewer | Yale University
 Jacob Brown | Pennsylvania State University
+Gabriel Caceres | Penn State
 Kimberly Cartier | PSU
 Wilson Cauley | Wesleyan University
 Christian Clanton | The Ohio State University
@@ -32,6 +34,7 @@ Jason Curtis | Penn State
 Ian Czekala | Harvard Smithsonian CfA
 Paul Dalba | Boston University
 Fabio Del Sordo | Yale / NORDITA
+Julia DeMarines | Hampton University
 Karna Desai | Indiana University Bloomington
 Sally Dodson-Robinson | University of Delaware
 Katherina Feng | UC Santa Cruz
@@ -46,6 +49,7 @@ Kevin Hardegree-Ullman | University of Toledo
 Anthony Harness | University of Colorado Boulder
 Calen Henderson | The Ohio State University
 Brian Hicks | NASA Postdoctoral Program - Goddard
+Danley Hsu | Pennsylvania State University
 Catherine Huitson | University of Colorado at Boulder
 Roger Hurtado Mojica | Universidad Distrital Francisco José de Caldas
 Eric Jensen | Swarthmore College
@@ -58,6 +62,7 @@ Jonathan Labadie-Bartz | Lehigh University
 Robert Loyd | University of Colorado
 Michael Lund | Vanderbilt University
 John Madden | Cornell University
+Suvrath Mahadevan | Penn State
 Nikhil Mahajan | University of Toronto
 Fred Marschak | Santa Barbara City College
 Ryan Miranda | Cornell University
@@ -81,7 +86,8 @@ Ray Sanders | The University of North Dakota
 Everett Schlawin | Cornell University
 Joseph Schmitt | Yale University
 Adam Schneider | The University of Toledo
-debanjan sengupta | University of Delaware
+Christian Schwab | PSU
+Debanjan Sengupta | University of Delaware
 Megan Shabram | Penn State Astronomy
 Holly Sheets | University of Maryland
 Ari Silburt | University of Toronto
@@ -106,4 +112,5 @@ Ashlee Wilkins | University of Maryland, College Park
 Alexander Wise | University of Delaware
 Alexander Wolszczan | Penn State University
 Rachel Worth | Penn State
+Ming Zhao | Penn State University
 Andras Zsom | MIT
