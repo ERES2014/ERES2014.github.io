@@ -25,6 +25,7 @@ Visitors Bureau</a> online.
 
 Dining
 ------
+
 ###Downtown Restaurants:
 
 - India Pavilion (Indian)
