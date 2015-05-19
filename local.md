@@ -25,6 +25,38 @@ Visitors Bureau</a> online.
 
 Dining
 ------
+###Downtown Restaurants:
+
+- India Pavilion (Indian)
+- Cosy Thai Bistro (Thai)
+- Green Bowl (make your own stir fry)
+- Pho 11 (Vietnamese)
+- Brother’s Pizza
+- The Tavern 
+- Herwigs (Austrian, not very vegetarian friendly)
+- Pita Cabana (Mediterranean)
+- The Corner Room (American grill)
+- Berkey Creamery (ice cream, on-campus)
+
+###Downtown Coffeeshops:
+- Webster’s
+- The Cheese Shop
+- Saint’s
+- Panera
+- Starbucks
+
+###Downtown Bars:
+- Zeno’s (large beer selection)
+- Local Whiskey a.k.a. “The Second” (large whiskey selection)
+- Liberty
+
+###Driveable Restaurants:
+- Otto’s (popular local brewery/restaurant)
+- Faccia Luna Pizzeria (wood oven pizzeria/Italina)
+- The Greek (greek)
+- The Original Waffle House (breakfast/lunch only)
+- Meyer Dairy (ice cream)
+
 
 
 
