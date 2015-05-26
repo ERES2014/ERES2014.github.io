@@ -68,8 +68,11 @@ Fred Marschak | Santa Barbara City College
 Ryan Miranda | Cornell University
 Benjamin Montet | Caltech
 Robert Morehead | Penn State
+Lamiya Mowla | Yale University
 Benjamin Nelson | Pennsylvania State University
+Ricky Nilsson | Dept of Astrophysics, AMNH
 Steven Novotny | US Air Force Academy
+Jack O'Malley-James | Cornell University
 James Owen | Institute for Advanced Study
 Matthew Penny | Sagan Fellow, The Ohio State University
 Daniel Polsgrove | US Air Force Academy
