@@ -37,7 +37,13 @@ Exoplanet properties require accurate knowledge of the host stars, and the stell
 
 
 ---
-*Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE* (Nicholas Troup)
+*Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE* (Nicholas Troup, UVA)
+
+Serendipitous science from APOGEE. About 1/2 of stars are in binary (or higher order systems) and on average every star has 1 planet. Companions can be stellar binaries, planets, or brown dwarfs. Brown dwarfs are the "missing link" between stars and planets. A strange phenomenon is the "brown dwarf desert", which means that there is a lack of BD companions within 5 AU of a solar-type star. This is strange, because we have lots of Hot Jupiter planets very close to their stars and at near-BD masses.
+
+APOGEE was meant as a galactic structure survey, but has been very useful for exoplanet discovery and characterization. The APOGEE RV Companion Survey takes stellar spectra and can pull out stellar parameters and abundances in the APOGEE samples. Their spectral model is exceptionally good at fitting their APOGEE spectra to get stellar properties. They can then measure radial velocities and search for planets. They have to go through a rigorous false positive analysis to weed out the "not planet planetary-like signals" from the real planets.
+
+About half of their stellar sample is giant stars, which really haven't been searched for companions all that much. They have a galactic distribution of stars, looking both inwards and outwards from the galactic core. While their sample is mainly in the thin disk, there are a few thick disk and halo stars, as well as globular cluster and open cluster stars. After first analysis they have about half of their sample as stellar or BD companions, and the other half are potentially planetary companions. Using their methods they hope to "map the shores" of the BD desert, and build a galactic map of companion frequency.
 
 ---
 *Re-characterization of a gravity-darkened and precessing planetary system PTFO 8-8695* (Shoya Kamiaka)
