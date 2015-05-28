@@ -27,7 +27,7 @@ TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2
 
 Theory: protoplanets form far out and migrate inwards, are bombarded by Mars-sized embryos, one gets its mantle stripped, one gets mass accreted. However, few simulations result in a 7:6 resonance. This makes this particular method very unlikely, because there are a few serendipitous things that must happen to make this system via this method.
 
-Their method: take this theory above, and modify it. Their method would not require mantle stripping, originally starting in the strange 7:6 resonance, the planets don't have to swap places. They would start in the outer parts in a 2:1 resonance, and migrate inwards. The inner planet then just sweeps up leftover rocky material to become the super-Earth, and the outer one is left as a lower density material. They modeled this in a simulation and were able to accurate replicate this system with minimal fine-tuning of the model.
+Their method: take this theory above, and modify it. Their method would not require mantle stripping, originally starting in the strange 7:6 resonance, the planets don't have to swap places. They would start in the outer parts in a 2:1 resonance, and migrate inwards. The inner planet then just sweeps up leftover rocky material to become the super-Earth, and the outer one is left as a lower density material. They modeled this in a simulation and were able to accurately replicate this system with minimal fine-tuning of the model.
 
 
 ---
