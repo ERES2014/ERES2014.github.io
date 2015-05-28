@@ -8,8 +8,7 @@ image:
   credit: ESO, Nathaniel C. Sheetz
   creditlink: 
 ---
-
-This is our second of two sessions on Planetary Atmospheres, chaired by Cornell University Research Associate Ramses Ramirez.
+Aaaand...we're back! After our scintillating lunch discussion, we're back in the ballroom for our next wave of science talks. This is our second of two sessions on Planetary Atmospheres, chaired by Cornell University Research Associate Ramses Ramirez.
 
 
 
