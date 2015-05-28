@@ -31,7 +31,13 @@ They used the Kuiper Telescope in the near-UV on 15 targets looking for exoplane
 They use CLOUDY to simulate the ionization, chemical, and thermal states of the bow shock to see what the simulations say about their ability to detect the asymmetry. They find that with this, there are no species in the near-UV to cause an asymmetric transit, so their non-detections are due to their observing parameters, not a physical property of the planets. They find that near-UV transits are not robust for detecting magnetic fields, and near-UV planetary radii show variations that can be used to constrain their atmospheres.
 
 ---
-***Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results* (Catherine Huitson)**
+***Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results* (Catherine Huitson, University of Colorado)**
+
+Main aims of Gemini/GMOS is to measure the dominant atmospheric absorbers in exoplanet atmospheres. They have broad-band, low resolution optical coverage. Their 9 planet sample has low densities and good comparison star, is comparative study , and want to understand the systematic noise sources. The survey length is 3 years, which lets them improve signal/noise and increase repeatability. With GMOS, they can get similar precision to HST, but with fewer gaps in the data which allows for better fitting of the transit curve and more accurate planetary and stellar parameters.
+
+MOS= Multi-object spectroscopy. The two spectra are the target and the reference star of the same spectral type, so that they can compare the two stars one wavelength at a time. They get a frame every 50 seconds to build a transit light curve, and as they go wavelength-by-wavelength they can see changes in the transit light curves with wavelength, and so build a transmission spectrum. Using this method they find that WASP-4b is a cloud dominated hot Jupiter. 
+
+There are a number of observational challenges that they face during their analysis, and they are finding clever ways of solving each and every problem that arises. They can find through this method that XO-2b is a cloud-free hot Jupiter. Their first important results is that while WASP-4b and XO-2b are very similar planets in some respects, they have very different atmospheric structures, and they can detect that.
 
 ---
 ***Hot and Heavy: Transiting Brown Dwarfs* (Thomas Beatty)**
