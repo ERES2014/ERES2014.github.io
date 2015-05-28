@@ -37,11 +37,13 @@ What can the orbits of multiplanet systems tell us about their formation? There 
 
 Are these many planet, cold systems really stable over long times? They simulated a *Kepler*-11 type system - planets that are all super-Earths and tightly spaced - and dynamically ran the system to see how long something like that could survive. At planetary spacing of about 11 times the Hill Radius, all of the simulation runs survived for the full simulation time (1 billion years). At that spacing, they found that inclined and eccentric orbits destabilized the systems within 1 million years. You would need to increase the spacing even more to stabilize those systems.
 
-They conclude that some of the *Kepler* multiplanet systems are at the edge of stability, and so they must have been "sculpted" over eons. There must have once been much more multiplanet systems that developed in unstable formations and dynamically evolved to their lower-number planet states.
+They conclude that some of the *Kepler* multiplanet systems are at the edge of stability, and so they must have been "sculpted" over eons. There must have once been many more multiplanet systems that developed in unstable formations and dynamically evolved to their lower-number planet states.
 
 
 ---
 ***Implications for the False-Positive Rate in Kepler Planet Systems From Transit Duration Ratios* (Robert C. Morehead, PSU)**
+
+
 
 
 ---
