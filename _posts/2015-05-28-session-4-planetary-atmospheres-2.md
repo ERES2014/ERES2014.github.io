@@ -22,7 +22,13 @@ What would the climate be like on a hazy Earth-like world? As you increase the a
 How can we detect hazy atmospheres? Methane haze absorbs a lot of light in blue wavelengths, so objects that are missing portions of blue light in their reflection spectra are likely to be hazy. For transit transmission spectra, when you add haze into the atmosphere you can't see as deeply into the atmosphere, so your characteristic absorption features are more muted than normal. The spectrum at the ground of a hazy planet shows that the majority of the harmful UV light is blocked, so a hazy planet might have a greater chance at habitability, since the harmful types of light are reduced. As the haze on the early Earth was biologically produced and regulated, they might even be a signature of life.
 
 ---
-***The robustness of using near-UV observations to detect and study exoplanet magnetic fields* (Jake Turner)**
+***The robustness of using near-UV observations to detect and study exoplanet magnetic fields* (Jake Turner, UVA)**
+
+The magnetic fields of planets give us insight into the internal structures and rotation period of exoplanets, atmospheric dynamics, formation and evolution of exoplanets, potential exomoons, habitability, and allow us to compare to solar system objects. Their method involved detecting asymmetries in the near-UV and infrared light curves. In the near-UV, you can detect the bow shock in front of the planet, like a boat going through water. This light curve should have an extended ingress and a shortened egress.
+
+They used the Kuiper Telescope in the near-UV on 15 targets looking for exoplanet magnetic fields. On WASP-77b, they note that the transit does not look like their predicted bow-shocked magnetic field. In their 15 planets, they did not see any asymmetric transit shapes, which puts an upper limit on the potential magnetic fields of those planets. So, either those magnetic fields are really small, or perhaps this effect is not observable using that particular telescope or in that particular wavelength.
+
+They use CLOUDY to simulate the ionization, chemical, and thermal states of the bow shock to see what the simulations say about their ability to detect the asymmetry. They find that with this, there are no species in the near-UV to cause an asymmetric transit, so their non-detections are due to their observing parameters, not a physical property of the planets. They find that near-UV transits are not robust for detecting magnetic fields, and near-UV planetary radii show variations that can be used to constrain their atmospheres.
 
 ---
 ***Characterizing Transiting Exoplanet Atmospheres with Gemini/GMOS: First Results* (Catherine Huitson)**
