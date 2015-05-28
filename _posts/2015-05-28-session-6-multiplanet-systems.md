@@ -12,16 +12,22 @@ image:
 Our final talk session of the day is on Multiple Planet Systems, and is chaired by PSU Postdoc Thomas Beatty.
 
 ---
-***Precise Planetary Masses, Radii and Orbital Eccentricities of Sub-Neptunes from Transit Timing* (Daniel Jontof-Hutter)**
+***Precise Planetary Masses, Radii and Orbital Eccentricities of Sub-Neptunes from Transit Timing* (Daniel Jontof-Hutter, PSU)**
 
 *Kepler*'s period-radius diagram shows us that sub-Neptune planets are really common, which is interesting because we don't see any of those planets in our own solar system. We have been able to characterize a few planets using RV as well, and some with transit timing variations. With TTVs we are looking at the very slight variations in a planetary orbital period due to slight gravitational tugs on the planet from other planets in the system. 
 
 To characterize TTV transiting planets (*Kepler*-79 in particular), they can assume that all of the planets are co-orbital (they have the same inclinations). They also assume that there are no non-transiting perturbing planets, since the timing variations closely match what they'd expect for that system with just the transiting planets. They can use TTVs to get the masses of these planets and very good constraints on their eccentricities. This is remarkable because the eccentricities are much lower than would be detectable using RV measurements (RV doesn't give accurate eccentricities below ~0.1). These eccentricities are 0.2% to 2%, and are still detectable.
 
-TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2% errors. Knowing the star really well, they can characterize the planets very well. Planet d in the system has a super-Earth mass, but a density of only 0.1 g/cm^3, comparable to atmospherics density on Earth's surface! This means that the planet must have a much larger radius. When we compare the sample of planets characterized by RV to those by TTV, we see that TTV is looking at a very different sample of planets. Each method has their own biases, so they are finding different types of planets. With TTVs we can find super-Earth massed planets at up to 200 day orbital period, but just because they are super-Earth mass, doesn't mean that they are rocky!
+TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2% errors. Knowing the star really well, they can characterize the planets very well. Planet d in the system has a super-Earth mass, but a density of only 0.1 g/cm^3, comparable to atmospherics density on Earth's surface! This means that the planet must have a much larger radius. When we compare the sample of planets characterized by RV to those by TTV, we see that TTV is looking at a very different sample of planets. Each method has their own biases, so they are finding different types of planets. With TTVs we can find super-Earth massed planets at up to 200 day orbital period, but just because they are super-Earth mass, doesn't mean that they are rocky! They can have a huge range of bulk densities.
 
 ---
-***On the Origin and Evolution of the Kepler-36 System* (Thomas Rimlinger)**
+***On the Origin and Evolution of the Kepler-36 System* (Thomas Rimlinger, )**
+
+*Kepler*-36 is a Sun-like star with two planets in a 7:6 mean-motion orbital resonance, one a super-Earth and one a sub-Neptune. This is a very unusual orbital configuration: one is high density, one is low density; they are very tightly packed; this resonance is very rare. How did this happen? Most planet formation models can't do this.
+
+Theory: protoplanets form far out and migrate inwards, are bombarded by Mars-sized embryos, one gets its mantle stripped, one gets mass accreted. However, few simulations result in a 7:6 resonance. This makes this particular method very unlikely, because there are a few serendipitous things that must happen to make this system via this method.
+
+Their method: take this theory above, and modify it. Their method would not require mantle stripping, originally starting in the strange 7:6 resonance, the planets don't have to swap places. They would start in the outer parts in a 2:1 resonance, and migrate inwards. The inner planet then just sweeps up leftover rocky material to become the super-Earth, and the outer one is left as a lower density material. They modeled this in a simulation and were able to accurate replicate this system with minimal fine-tuning of the model.
 
 
 ---
@@ -29,7 +35,7 @@ TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2
 
 
 ---
-***Implications for the False-Positive Rate in Kepler Planet Systems From Transit Duration Ratios* (Robert C. Morehead)**
+***Implications for the False-Positive Rate in Kepler Planet Systems From Transit Duration Ratios* (Robert C. Morehead, PSU)**
 
 
 ---
