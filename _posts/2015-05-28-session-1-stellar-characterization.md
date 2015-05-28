@@ -12,7 +12,7 @@ image:
 The first session of participant talks is chaired by PSU graduate student Taran Esplin and will focus on characterization of planet hosting stars.
 
 ---
-*Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA, @)
+*Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA)
 
 Talking abuot two techniques for measuring young stars and their protoplanetary disks. What are stellar properties of near solar mass stars before they hit the main sequence? How do we find this out? Stars start out above and to the right of the MS, and stars of different masses take different paths and take different amounts of time to travel from their initial positions to the MS. Lower mass stars take the longest time to hit the MS from their initial positions.
 
@@ -23,7 +23,18 @@ Technique 2: using stellar spectroscopy to get the stellar mass. Get a spectrum 
 In the future, we can combine dynamical masses from ALMA/SMA. The current sample is about 20 stars, and they hope to calibrate the early HR diagram.
 
 ---
-*Defining the Range of Chemistry for Exoplanet Interiors* (John Brewer)
+*Defining the Range of Chemistry for Exoplanet Interiors* (John M. Brewer, Yale)
+
+While we know of a lot of exoplanets, there are very few of them where we know their masses accurately. The problem is actually getting an accurate stellar surface gravity, which affects estimates of radius and temperature, since the parameters are degenerate.
+
+They use Spectroscopy Made Easy (SME) to get a better handle on surface log(g) of the planet. They use over 7000 lines to get this better estimate. By comparing to stars that have asteroseismic surface gravities they can test whether their SME procedure works better than their previous procedure. SME does a substantially better jobs, excepting a few stars that are rapid rotatrs, which mess up the comparison.
+
+There doesn't seem to be any trends in derived log(g) with other parameters, meaning that the SME method works well across a wide range of stars (excepting rapid rotating stars). However, they want to now use this to get stellar compositions, and they do this using asteroid spectra to test the accuracy of the methods (this assumes that we know the composition of the Sun).
+
+For asteroids, they test their method using the ratio of carbon to oxygen (C/O), since that ratio is highly dependent on initial Solar composition. In their stellar sample, they find very few high C/O ratio stars (very few diamond planets, boo).
+
+Exoplanet properties require accurate knowledge of the host stars, and the stellar log(g) is a key parameter to characterizing the star. Look out for a catalog to be published with all these parameters soon
+
 
 ---
 *Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE* (Nicholas Troup)
