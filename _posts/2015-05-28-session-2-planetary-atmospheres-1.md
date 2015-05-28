@@ -24,7 +24,7 @@ They use *HST* to take spectra of their Y dwarf spectra in the Y-band (Why the Y
 ---
 ***Hot Jupiter Atmospheres Revealed with HST/WFC3* (Laura Kreidberg, University of Chicago)**
 
-Transit modeling code: batman = Bad-A* * Transit Model cAlculatioN, currently in development and online at [github](https://github.com/lkreidberg/batman).
+Transit modeling code: batman = Bad-A* * Transit Model cAlculatioN, currently in development and online at [github](https://github.com/lkreidberg/batman). If you help with testing and debugging, Laura Kreidberg will buy you a beverage.
 
 They are observing HJs WASP-43b and WASP-12b using an *HST* program called "Follow the Water." As the name suggests, they are looking at water bands of these HJs to get precise water abundance estimates. They find about 0.5-.75 times the solar water abundance in WASP-43b. This is important to know because water is a key molecule in planet formation. WASP-43b also very nicely follows the mass-metalicity relation for planets, that more massive planets have fewer heavy elements than less massive planets.
 
@@ -34,7 +34,14 @@ In the future, they (and we) need to study the whole planet to characterize the 
 
 
 ---
-***Emission and Phase Curves from 3D Exoplanet Atmospheres* (Y. Katherina Feng)**
+***Emission and Phase Curves from 3D Exoplanet Atmospheres* (Y. Katherina Feng, UC Santa Cruz)**
+
+
+Katherina (a recent PSU graduate) is talking about the emission from the planetary atmospheres using 3D model atmospheres. This will help us figure out what kinds of spectra we will be seeing when the *James Webb Space Telescope* finally launches, and so that we can characterize our future observations. *JWST* will be much more precise and accurate in the infrared than current telescopes, so we need to understand what these planet should look like in *JWST* spectra. Doing 3D models will help us figure out what limits our accuracy in detection and modeling, and what biases are inherent in our 1D models.
+
+They are testing a new 3D radiative transfer code "SPARC" to test the opacity grids against the 1D models, and have found that there are some discrepancies. If they use the same opacity grids as the 1D models do, the 3D code and the 1D codes match more closely. They apply this to WASP-43b and find that the assumed inclination of the planet has little effect on the spectral solution (they then assume an edge-on system).
+
+When they look at the atmospheres in a variety of wavelengths and phases, they see that atmospheres are really complex 3D structures, and a 1D analysis of the atmosphere may not cut it. First, is there a difference between the day and night sides of the planets? the 3D model does show differences between the day and night side profiles. Is the 1D model biased towards the day side? Yes, it is. Our measurements in should essentially be an average of the day and night side, but 1D models are more biased towards day side values. They plan to test the limits of exoplanet spectroscopy using their new 3D models and ferreting out the biases in our 1D retrievals.
 
 
 ---
