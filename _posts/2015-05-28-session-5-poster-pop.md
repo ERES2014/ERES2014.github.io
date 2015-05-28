@@ -18,25 +18,25 @@ Alright, now after the poster pops are done, here are some of my thoughts about 
 <br />1. The slide:<br />
 - Do: make your figure easy to read<br />
 - Do: summarize the takeaway message of you poster<br />
-- Don't: give away the *all* of the milk for free. Leave them a reason to go to your poster.<br />
-- Don't: make your slide completely un-readable.<br />
 - Do: make your slide somehow related to what you're saying. If I looked at your slide long enough, would I be able to figure out what's going on?<br />
 - Do: make sure to credit all of your co-authors on the paper<br />
 - Do: make sure that the text and background are highly contrasted for easy reading
+- Don't: give away the *all* of the milk for free. Leave them a reason to go to your poster.<br />
+- Don't: make your slide completely un-readable.<br />
 
 
 <br />2. The content of your pitch:<br />
-- Don't: just read what you poster says.<br />
 - Do: say what is unique about your poster. Why should I go to yours over someone else's?<br />
 - Do: tell us where to find your poster<br />
-- Don't: make fun of someone else's work<br />
 - Do: be excited and speak clearly!<br />
-- Don't: say the same thing you're saying in your oral pitch of your poster. This has a different purpose.<br />
 - Do: have good timing! Don't go over time!<br />
 - Do: make what you're saying related to what's on your slide.<br />
 - Do: make sure that you have a clear beginning, middle, and end.<br />
+- Don't: say the same thing you're saying in your oral pitch of your poster. This has a different purpose.<br />
+- Don't: just read what you poster says.<br />
 - Don't: stare down at your notes the whole time.<br />
 - Don't: write your whole script out. Be flexible!<br />
+- Don't: make fun of someone else's work<br />
 
 
 ---
