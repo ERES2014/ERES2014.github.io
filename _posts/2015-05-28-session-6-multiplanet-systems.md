@@ -21,7 +21,7 @@ To characterize TTV transiting planets (*Kepler*-79 in particular), they can ass
 TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2% errors. Knowing the star really well, they can characterize the planets very well. Planet d in the system has a super-Earth mass, but a density of only 0.1 g/cm^3, comparable to atmospherics density on Earth's surface! This means that the planet must have a much larger radius. When we compare the sample of planets characterized by RV to those by TTV, we see that TTV is looking at a very different sample of planets. Each method has their own biases, so they are finding different types of planets. With TTVs we can find super-Earth massed planets at up to 200 day orbital period, but just because they are super-Earth mass, doesn't mean that they are rocky! They can have a huge range of bulk densities.
 
 ---
-***On the Origin and Evolution of the Kepler-36 System* (Thomas Rimlinger, )**
+***On the Origin and Evolution of the Kepler-36 System* (Thomas Rimlinger, UMD)**
 
 *Kepler*-36 is a Sun-like star with two planets in a 7:6 mean-motion orbital resonance, one a super-Earth and one a sub-Neptune. This is a very unusual orbital configuration: one is high density, one is low density; they are very tightly packed; this resonance is very rare. How did this happen? Most planet formation models can't do this.
 
@@ -31,7 +31,13 @@ Their method: take this theory above, and modify it. Their method would not requ
 
 
 ---
-***Spacing of Kepler Planets: Sculpting by Dynamical Instability* (Bonan (Michael) Pu)**
+***Spacing of Kepler Planets: Sculpting by Dynamical Instability* (Bonan (Michael) Pu, University of Toronto)**
+
+What can the orbits of multiplanet systems tell us about their formation? There are some systems, like *Kepler*-11, that have many many planets packed into a very small space. These systems are also so-called "dynamically cold," with low eccentricities, no real variations, similar inclinations. Looking at the distributions of *Kepler* multiplanet systems, we see two distinct families of multiplanet systems: those with many planets that are dynamically "cold" and those with fewer planets that are dynamically "hot", that have the freedom to have large eccentricities, inclinations, or more widely spaced orbits.
+
+Are these many planet, cold systems really stable over long times? They simulated a *Kepler*-11 type system - planets that are all super-Earths and tightly spaced - and dynamically ran the system to see how long something like that could survive. At planetary spacing of about 11 times the Hill Radius, all of the simulation runs survived for the full simulation time (1 billion years). At that spacing, they found that inclined and eccentric orbits destabilized the systems within 1 million years. You would need to increase the spacing even more to stabilize those systems.
+
+They conclude that some of the *Kepler* multiplanet systems are at the edge of stability, and so they must have been "sculpted" over eons. There must have once been much more multiplanet systems that developed in unstable formations and dynamically evolved to their lower-number planet states.
 
 
 ---
