@@ -12,7 +12,7 @@ image:
 The first session of participant talks is chaired by PSU graduate student Taran Esplin and will focus on characterization of planet hosting stars.
 
 ---
-***Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA)**
+***Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA, @iczekala)**
 
 Talking abuot two techniques for measuring young stars and their protoplanetary disks. What are stellar properties of near solar mass stars before they hit the main sequence? How do we find this out? Stars start out above and to the right of the MS, and stars of different masses take different paths and take different amounts of time to travel from their initial positions to the MS. Lower mass stars take the longest time to hit the MS from their initial positions.
 
