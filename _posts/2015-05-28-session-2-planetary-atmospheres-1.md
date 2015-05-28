@@ -24,7 +24,7 @@ They use *HST* to take spectra of their Y dwarf spectra in the Y-band (Why the Y
 ---
 ***Hot Jupiter Atmospheres Revealed with HST/WFC3* (Laura Kreidberg, University of Chicago)**
 
-Transit modeling code: batman = Bad-A* * Transit Model cAlculatioN, currently in development and online at github.
+Transit modeling code: batman = Bad-A* * Transit Model cAlculatioN, currently in development and online at [github](https://github.com/lkreidberg/batman).
 
 They are observing HJs WASP-43b and WASP-12b using an *HST* program called "Follow the Water." As the name suggests, they are looking at water bands of these HJs to get precise water abundance estimates. They find about 0.5-.75 times the solar water abundance in WASP-43b. This is important to know because water is a key molecule in planet formation. WASP-43b also very nicely follows the mass-metalicity relation for planets, that more massive planets have fewer heavy elements than less massive planets.
 
@@ -35,6 +35,7 @@ In the future, they (and we) need to study the whole planet to characterize the 
 
 ---
 ***Emission and Phase Curves from 3D Exoplanet Atmospheres* (Y. Katherina Feng)**
+
 
 ---
 We're going to be changing gears and talking about how to write a successful fellowship or grant proposal with our Fellowship Panel, made up of four successful fellowship winners.
