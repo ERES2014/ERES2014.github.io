@@ -12,7 +12,7 @@ image:
 The first session of participant talks is chaired by PSU graduate student Taran Esplin and will focus on characterization of planet hosting stars.
 
 ---
-*Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA)
+###*Accessing the fundamental properties of young stars* (Ian Czekala, Harvard Smithsonian CfA)
 
 Talking abuot two techniques for measuring young stars and their protoplanetary disks. What are stellar properties of near solar mass stars before they hit the main sequence? How do we find this out? Stars start out above and to the right of the MS, and stars of different masses take different paths and take different amounts of time to travel from their initial positions to the MS. Lower mass stars take the longest time to hit the MS from their initial positions.
 
@@ -23,7 +23,7 @@ Technique 2: using stellar spectroscopy to get the stellar mass. Get a spectrum 
 In the future, we can combine dynamical masses from ALMA/SMA. The current sample is about 20 stars, and they hope to calibrate the early HR diagram.
 
 ---
-*Defining the Range of Chemistry for Exoplanet Interiors* (John M. Brewer, Yale)
+###*Defining the Range of Chemistry for Exoplanet Interiors* (John M. Brewer, Yale)
 
 While we know of a lot of exoplanets, there are very few of them where we know their masses accurately. The problem is actually getting an accurate stellar surface gravity, which affects estimates of radius and temperature, since the parameters are degenerate.
 
@@ -37,7 +37,7 @@ Exoplanet properties require accurate knowledge of the host stars, and the stell
 
 
 ---
-*Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE* (Nicholas Troup, UVA)
+###*Broadening our Horizons on Short-Period Stellar and Substellar Companions with APOGEE* (Nicholas Troup, UVA)
 
 Serendipitous science from APOGEE. About 1/2 of stars are in binary (or higher order systems) and on average every star has 1 planet. Companions can be stellar binaries, planets, or brown dwarfs. Brown dwarfs are the "missing link" between stars and planets. A strange phenomenon is the "brown dwarf desert", which means that there is a lack of BD companions within 5 AU of a solar-type star. This is strange, because we have lots of Hot Jupiter planets very close to their stars and at near-BD masses.
 
@@ -46,7 +46,7 @@ APOGEE was meant as a galactic structure survey, but has been very useful for ex
 About half of their stellar sample is giant stars, which really haven't been searched for companions all that much. They have a galactic distribution of stars, looking both inwards and outwards from the galactic core. While their sample is mainly in the thin disk, there are a few thick disk and halo stars, as well as globular cluster and open cluster stars. After first analysis they have about half of their sample as stellar or BD companions, and the other half are potentially planetary companions. Using their methods they hope to "map the shores" of the BD desert, and build a galactic map of companion frequency.
 
 ---
-*Re-characterization of a gravity-darkened and precessing planetary system PTFO 8-8695* (Shoya Kamiaka)
+###*Re-characterization of a gravity-darkened and precessing planetary system PTFO 8-8695* (Shoya Kamiaka)
 
 ---
 Next session is the first of our Planetary Atmospheres talks. Stay tuned!
