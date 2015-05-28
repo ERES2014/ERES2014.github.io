@@ -40,4 +40,18 @@ MOS = Multi-object spectroscopy. The two spectra are the target and the referenc
 There are a number of observational challenges that they face during their analysis, and they are finding clever ways of solving each and every problem that arises. They can find through this method that XO-2b is a cloud-free hot Jupiter. Their first important results is that while WASP-4b and XO-2b are very similar planets in some respects, they have very different atmospheric structures, and they can detect that.
 
 ---
-***Hot and Heavy: Transiting Brown Dwarfs* (Thomas Beatty)**
+***Hot and Heavy: Transiting Brown Dwarfs* (Thomas Beatty, PSU)**
+
+Interesting presentation technique: start with your conclusions!
+
+Conclusion 1: The brown dwarf desert may have an oasis.<br />
+Conclusion 2: transiting brown dwarfs provide links between hot Jupiters and field brown dwarfs, allowing us to use observations of one to understand the other (KELT-1b in particular)
+
+Our understanding of the brown dwarf desert has evolved over the past 10 years or. As of last year, we have found 7 BD companions in this region, all around F stars (~6250 K) which are more rapidly rotating than the Sun. KELT, unlike other transiting surveys, don't ignore F stars, which have sort of been ignored before because RV detections are difficult. But now we see that F stars may have an oasis in the BD desert.
+
+The atmospheres of planets and dwarfs behave differently. There's a very distinct "kink" in the color-magnitude diagram of BDs at the L/T transition (where methane becomes dominant) that doesn't exist for planets of the same temperature. BDs have a very tight color-temperature sequence, and HJs are much more scattered. The different behavior tells us how the atmospheres are behaving, particularly with regards to carbon monoxide and methane. People postulate that the methane of HJs shouldn't be there, because the species is highly irradiated by the star, which it wouldn't be for BDs. 
+
+Well...KELT-1b is a highly irradiated BD in a tight orbit around its primary star. The day side of KELT-1b looks just like a field BD, a late-M or early L dwarf. They want to look at the night side of the BD to see if there's some chemical gradient between the day and night sides. If so...well, that would be very interesting indeed and tell us about the L/T transition for irradiated BDs, and how that impacts HJs and directly imaged planets.
+
+---
+We now move on to the first of our poster-pop sessions. I will do my best to capture some of the dos and don't of how to give a poster pop once I have some examples of them to work with!
