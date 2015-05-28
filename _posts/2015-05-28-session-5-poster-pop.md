@@ -20,7 +20,7 @@ Alright, now after the poster pops are done, here are some of my thoughts about 
 - Do: summarize the takeaway message of you poster<br />
 - Do: make your slide somehow related to what you're saying. If I looked at your slide long enough, would I be able to figure out what's going on?<br />
 - Do: make sure to credit all of your co-authors on the paper<br />
-- Do: make sure that the text and background are highly contrasted for easy reading
+- Do: make sure that the text and background are highly contrasted for easy reading<br />
 - Don't: give away the *all* of the milk for free. Leave them a reason to go to your poster.<br />
 - Don't: make your slide completely un-readable.<br />
 
