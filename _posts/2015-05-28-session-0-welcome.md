@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Morning ERES!
-description: a description 
+description:
 tags: [ERES, welcome]
 image:
   feature: banner.jpg
