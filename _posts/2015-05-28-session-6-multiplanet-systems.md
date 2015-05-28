@@ -43,7 +43,11 @@ They conclude that some of the *Kepler* multiplanet systems are at the edge of s
 ---
 ***Implications for the False-Positive Rate in Kepler Planet Systems From Transit Duration Ratios* (Robert C. Morehead, PSU)**
 
+This talk only applies to the multiple planet systems detected by *Kepler*. As a reminder, *Kepler* has very low-resolution CCDs: each pixel is 4 arcseconds wide. And so there is a lot of room in the *Kepler* photometry for false-positive, blend scenarios, and binary star systems. When we look at these stars at higher resolution we can find out more about them, but we can't do that for everything.
 
+The ratio of transit duration can probe whether two planets orbit the same star. This is especially useful for systems where we know there is more than one star, or when we suspect that there is a blending scenario going on. The orbit's eccentricity and the impact parameter affect transit duration ratio. We expect mostly that these systems have co-planar planets, since they are all transiting. They use simulations to calculate the likelihood of the observed duration ratio under different scenarios: all around one star, and a suite of false-positive scenarios.
+
+They find that most multiplanet systems have a high probability of being associated with the same star. Now, the problem with this is that the parameters used here are the original *Kepler* stellar parameters, ignoring any followup observations made. So, while they conclude that most multis are likely around the same star, there is always the chance that there is a blended source and therefore a more complicated system than one might originally think.
 
 
 ---
