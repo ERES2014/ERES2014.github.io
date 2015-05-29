@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planet Formation
-description: a description 
+description:
 tags: [ERES, Planet Formation]
 image:
   feature: banner.jpg
@@ -9,17 +9,17 @@ image:
   creditlink: 
 ---
 
-This talk session is all about planet formation, and is co-chaired by Rachel Worth and Kimberly Cartier. This blog post has been written by Robert.
+This talk session is all about planet formation, and is co-chaired by Rachel Worth and Kimberly Cartier. This blog post has been written by Ben Nelson.
 
 ---
 
-*Planet Formation in Binary Systems - how Solid is the 1 km Barrier?* (Kedron Silsbee)
+***Planet Formation in Binary Systems - how Solid is the 1 km Barrier?* (Kedron Silsbee,)**
 
 ---
-*Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise)
+***Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise)**
 
 ---
-*Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda)
+***Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda)**
 
 ---
 *Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo)
