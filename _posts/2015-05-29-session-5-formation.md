@@ -24,8 +24,14 @@ A secular resonance (same time averaged precession rate between two objects) due
 ---
 ***Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise, University of Delaware)**
 
+In type-II migration, material entering a gap formed by a giant planet interacts with the outermost resonances. The asymmetrical strength of the inner and outer resonances drives the giant planet inward. Alexander is looking at how photoevaporation erodes the surface density of the disk and how that affects migration of the planet. Depending on what part of the disk gets eroded, the planet can stop migrating (outer resonant locations) or migrate even quicker (inner resonant locations get eroded).
+
 ---
-*Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda)
+***Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda, Cornell)**
+
+Deadzones in protoplanetary disks (areas with suppressed angular momentum transport) exist in the midplane from ~0.1 to at least several AU. Rossby wave instabilities occur at axisymmetric "bumps in inverse vortensity. Dead zones are a convenient way of producing this bumps and therefore an instability since they are MRI-inactive.
+
+Simulations start off with a smooth disk then mass piles up in the dead zone. "Modes" form and move at slightly different frequencies, causing them to catch up and merge with each other. Visocity parameter "alpha" > 0.04 - 0.07 suppresses these instabilities. Anticyclonic vortices trap dust grains which can result in rapid planetesimal formation. 
 
 ---
 *Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo)
