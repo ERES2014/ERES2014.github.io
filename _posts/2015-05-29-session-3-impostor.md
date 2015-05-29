@@ -12,7 +12,7 @@ image:
 A very critical issue for many (most) early career scientists is "impostor syndrome" (IS), which is defined as "an internal experience of intellectual phoniness despite external indications of success" (Clance P, Imes S. The impostor phenomenon in high achieving women: dynamics and therapeutic intervention. Psychotherapy: Theory, Research and Practice. 1978;15:241-247). PSU Astronomy professor, Jason T. Wright, is speaking about impostor syndrome, how it applies to you, and the effects and symptoms of IS.
 
 ---
-We asked Jason to give this talk, and at first he seemed a bit surprised, and perhaps felt unqualified to give this talk. But, perhaps, this is the hallmark of IS. Jason agreed, however, did a bunch of research, and it ready to give this talk to us all.
+We asked Jason to give this talk, and at first he seemed a bit surprised, and perhaps felt unqualified to give this talk. But, perhaps, this is the hallmark of IS. Jason agreed, however, did a bunch of research, and now feels ready to give this talk to us all.
 
 Who is this IS talk for? Those who suffer from IS are often unaware that they do, and so those people need to be educated so that they can overcome it. If you have students, you should also know about this, since your students and advisees may have IS.
 
