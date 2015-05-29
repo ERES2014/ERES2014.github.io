@@ -22,6 +22,12 @@ The HPF will be mounted on the Hobby-Eberly Telescope (HET) at McDonald Observat
 ---
 ***Ultra Precise Environmental Control for High Precision Radial Velocity Measurements* (Gudmundur Stefansson, PSU)**
 
+The search for habitable planets is exciting! (author's note: indeed!) Improved radial velocity precision enables us to detect lower mass planets, and HPF will focus on HZ planets around M-dwarfs. M-dwarfs are currently our best bet to look for rocky, low-mass planets in the HZ. NIR detector are better suited than optical detectors to study rocky planets around M-dwarfs. HPF is aiming for the same precision as HARPS, but in the NIR instead of the optical.
+
+HPF will push the boundaries of temperature and pressure stabilities achieved by HARPS. Temperature changes cause the echelle groove density to change, which degrades the precision. This can be on the over of 60 cm/s at a 10 mK change in temperature. Their are aiming for a temperature stability of 1 < mK precision in their cryostat. Environmental control is essential to reach 1 m/s RV precision in the NIR. 
+
+The HPF environmental control system opens the path to their 1 m/s goal precision. The components of the environmental control system are largely constructed and fabricated by PSU graduate students. Their actively controlled heaters keep HPF at 180 K with mK stability. They are currently testing and demonstrating the stabilizing effects of their thermal enclosure by testing things at HET. Right now HPF is in mid-integration phase in New York, and they plan to have the integration phase done in a  month or so, whereupon they will proceed to ship the instrument to PSU for further testing.
+
 ---
 ***Improve RV Precision through Better Spectral Modeling and Better Reference Spectra* (Sharon Xuesong Wang, PSU)**
 
