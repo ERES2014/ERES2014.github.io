@@ -22,9 +22,9 @@ He is currently the Senior Government Relations Officer at the AAAS. Josh was al
 
 **Daniel Angerhausen (DA):** received his PhD from the German Sofia Institute and then from CalTech. He then moved on to a postdoc at RPI, and is now an NPP fellow at Goddard. He in the n the process of starting up a company that he will tell you more about.
 
-~~**Dave Spiegel (DS):** received his PhD in Astronomy from Columbia University, and subsequently took postdocs at Princeton and at the Institute for Advanced Study. He now works as an R&D Data Scientist at Sum Labs.~~
+**Dave Spiegel (DS):** received his PhD in Astronomy from Columbia University, and subsequently took postdocs at Princeton and at the Institute for Advanced Study. He now works as an R&D Data Scientist at Sum Labs.
 
-**Last minute substitution - Daniel Angerhausen (DA):** has graciously agreed to join the panel at the last minute to fill-in for Dave  Spiegel.  
+**Last minute substitution - Daniel Angerhausen (DA):** has graciously agreed to join the panel at the last minute to fill-in for Dave  Spiegel, who was not able to join us.  
 
 
 **Opening Remarks**
