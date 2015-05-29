@@ -21,9 +21,13 @@ Using SIP, you can also find a better estimation of the stellar rotation period,
 
 
 ---
-***A Catalog of Transit Timing Posterior Distributions for all Kepler Planet Candidate Events* (Benjamin Montet)**
+***A Catalog of Transit Timing Posterior Distributions for all Kepler Planet Candidate Events* (Benjamin Montet, Caltech/Harvard)**
 
+Ben is working on a number of projects, including a transiting brown dwarf LHS-6343 and a paper on young M-dwarfs. Today he is talking about  transit timing variations (TTVs) (which Daniel Jontof-Hutter talked about yesterday). TTVs can ell us about eccentricities, inclinations, and mass ratios of planets in the same system, all of which can be really difficult to measure using another method.
 
+When looking at TTV curves, the variations in transit timing usually follow a sinusoid, but not all points follow this trend. The current methods ignore non-Gaussian errors, assume white noise, ignore ill-fitting transits, short cadence data, and don't marginalize over transit shape (if the transit is not properly sampled, current methods usually ignore these points). But correlated noise matters too, and needs to be included in analyses.
+
+Posteriors can help with this. If you fit many transit model models and times of transits, infer the posterior distribution for the time of every transit observed with *Kepler*, you can use importance sampling to get a handle on correlated noise. Importance sampling can help speed up your computation process bu focusing your computation on places in your data that you know, a priori, that the transits will be occurring. They are currently working on all of the single-transit systems, and multiple systems are nearly ready for "prime time". They are also looking for a cool name for the project, so give him a shout if you have an idea.
 
 
 ---
