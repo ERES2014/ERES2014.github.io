@@ -31,7 +31,14 @@ Posteriors can help with this. If you fit many transit model models and times of
 
 
 ---
-***Towards a Galactic Distribution of Exoplanets* (Matthew Penny)**
+***Towards a Galactic Distribution of Exoplanets* (Matthew Penny, Ohio State University)**
+
+Where are the known exoplanets? Microlensing is the only technique we currently have for probing for exoplanets in multiple areas of the galaxy. RV surveys are limited to nearby stars, *Kepler* looked in one region, K2 will add a ring around the solar system with more nearby targets, but microlensing surveys look straight into the galactic center to find the frequency of exoplanets as a function of galactic radial position.
+
+Question: does plane formation in the bulge differ from the disk of the galaxy? Different galactic environments can have detrimental effects on the longevity of a protoplanetary disk, or can change the temperature of the protoplanetary disk to impede planet formation. They find that, based on microlensing surveys, there are a lot fewer planets in the galactic bulge than in the disk. They determine this by varying the ratio of disk planet formation efficiency to bulge planet formation efficiency to model the current distance distribution of microlensing planets. They find in their first results that the bulge planet formation efficiency must be lower than the disk planet formation efficiency in order to approximate the microlensing planet distance distribution that they see.
+
+They want to find out what is the most probable distance/location in the galaxy to find exoplanets. They can measure distances to microlensing planets with parallax (for nearby planets), using a Bayesian method, or using the relative proper motions of stars to calculate the distances. While there are still some kinks to work out, this mix of techniques lets them probe a wide range of planet distances and begin to map the galactic distribution of exoplanets.
+
 
 
 ---
