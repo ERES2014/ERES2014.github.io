@@ -52,7 +52,14 @@ They map the distribution of planets into distributions of the observables relev
 
 
 ---
-***Sifting Through the Noise - Recalculating the Frequency of Earth-Sized Planets Around Kepler-Stars* (Ari Silburt)**
+***Sifting Through the Noise - Recalculating the Frequency of Earth-Sized Planets Around Kepler-Stars* (Ari Silburt, University of Toronto)**
+
+*Kepler* has been invaluable in attempting to answer the age-old question of: is our planet unique? Unfortunately, we haven't yet found a true Earth-analog. We can estimate the frequency of Earth-like planet by extrapolating our results past our detection biases. We first have to overcome our geometric bias: only certain planetary systems are transiting, and there's a large population of planets that we simply don't see in transiting surveys because of this detection bias. This is a strong function of planetary radius and orbital semi-major axis. 
+
+This bias causes a lot of large error bars and false-positives in the *Kepler* data - mainly because we don't understand the stars themselves. Such large error bars can skew our estimation of the number and frequency of Earth-sized planets. What they've done is a new way of accounting for the uncertainty in planetary radius by applying our known *Kepler* detection probabilities for planets based on their radii and combining that with the probability curve of the planet size. For example, the uncertainties of a detection may include a very small size, but we know that detecting something that small is very unlikely, so that value is downweighted. This allows them to correct our error distribution and use this to improve our estimate of the frequency of Earth-sized planets.
+
+They find that with these corrections, the frequency of Earth-sized planets in the *Kepler* sample is eta_Earth = 6.4%, which is about half of what it would be if they haven't accounted for the detection biases of *Kepler*. They anticipate that the Gaia spacecraft will help better understand the stellar exoplanet hosts, which will further increase the accuracy of their eta-Earth value.
+
 
 
 ---
