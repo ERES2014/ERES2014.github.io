@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Planet Formation
-description: a description 
+description:
 tags: [ERES, Planet Formation]
 image:
   feature: banner.jpg
@@ -9,7 +9,7 @@ image:
   creditlink: 
 ---
 
-This talk session is all about planet formation, and is co-chaired by Rachel Worth and Kimberly Cartier. This blog post has been written by Robert.
+This talk session is all about planet formation, and is co-chaired by Rachel Worth and Kimberly Cartier. This blog post has been written by Ben Nelson.
 
 ---
 
@@ -34,19 +34,25 @@ Deadzones in protoplanetary disks (areas with suppressed angular momentum transp
 Simulations start off with a smooth disk then mass piles up in the dead zone. "Modes" form and move at slightly different frequencies, causing them to catch up and merge with each other. Visocity parameter "alpha" > 0.04 - 0.07 suppresses these instabilities. Anticyclonic vortices trap dust grains which can result in rapid planetesimal formation. 
 
 ---
-*Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo)
+***Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo, University of Toronto)**
+
+ALMA got this spectacular image of concentric gaps in the HL Tau disk. Are we really seeing giant planets forming in each of these gaps? Probably can't stick one in ALL of them. An instability occurs on rapid timescales (~10^5 years)
+
+Neptune mass objects won't create an instability but then again aren't massive enough to carve these gaps. It turns out, the outer three gaps are in locations associated with resonances with the inner gaps. But the gaps are eccentric! This can arise when planets' eccentricities are caught between being excited from a MMR and being damped from the disk. Perhaps the planets got caught in resonance and grew around the same time.
+
+After the disk dissipates, these giant planets can scatter off one another to ejection/high eccentricities. So HL Tau system as we know it might not be long lived. This could explain all those RV planets with high eccentricities.
 
 ---
-*Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson)
+***Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson)**
 
 ---
-*Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)
+***Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)**
 
 ---
-*Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)
+***Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)**
 
 ---
-*The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez)
+***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez)**
 
 ---
 And that's all folks! The only things left to do for this are clean up (boo!) and dinner (yay!)
