@@ -69,7 +69,9 @@ Note: you can't just assume eccentricity is zero for giant planets when starting
 ---
 ***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez, Cornell)**
 
+Pre-main-sequence M-stars are many times more luminous than main-sequence and this part of their lifetime is very long (up to 1 Gyr). For the pre-MS Sun, the outer edge of the habitable zone is around 2.5 AU. HZs for these larger luminosity stars are put further out, which would make it easier to directly resolve these planets.
 
+Some complications. Long-lasting runaway conditions are triggered during pre MS-on Venus, Earth, and Mars. M dwarfs will have smaller disks so planets won't be able to accrete more volatiles. But late heavy bombardment can replenish water on planet's surfaces.
 
 ---
 And that's all folks! The only things left to do for this are clean up (boo!) and dinner (yay!)
