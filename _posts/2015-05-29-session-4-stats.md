@@ -69,7 +69,6 @@ Most people visualize a habitable zone as a stripe around a star that is capable
 
 From observations we have good estimates on the stellar properties and planetary orbital properties, but we don't know much about the planet properties and surface climate. How can we know the surface climate without knowing the planetary atmosphere?  They describe the HZ as a probability function to estimate the occurrence rate of HZ planets based on this HZ probability. If you treat the stellar and planet properties as random variables, you can create probability density functions out of them. They then sample each variable and use a 1D climate model to calculate the surface climate, repeat this to create an ensemble of climates, and then study the habitable sub-population and calculate their probabilistic HZ.
 
-
 They find that the most probable area of HZ planets around M-dwarfs occurs around a few times the radius of the Earth, and around 0.5-1 times the stellar flux received at Earth (author's note: this is a really cool 2D HZ probability plot!). So, they find that the occurrence rate of HZ planets is 0.001-0.3 planet/star for M-dwarfs, but that the surface pressure and atmosphere type strongly impact the surface climate and occurrence rate. We need better estimate of the potential atmospheres of exoplanets. Their code is called HUNTER and is available on [GitHub](github.com/andraszsom/HUNTER).
 
 ---
