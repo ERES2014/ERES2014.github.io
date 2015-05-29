@@ -46,10 +46,17 @@ Spectrophotometry in 30 seconds: sometimes we are lucky to observe edge on trans
 SOFIA is a telescope on a plane, a Boeing 747-SP aircraft that flies higher than commercial aircraft. It's a good compromise between a ground-based telescope and a space-based telescope: they remove some of the atmosphere (99%) that plagues ground based observations, but they can't observe as often as the ground because of flight restrictions.
  It operates in the NIR (0.3 micron to 1.6 mm). It has a wide wavelength regime and is mobile, which is good all for transit observations. "SOFIA is a space telescope that comes home every day" which lets them continually update the instrumentation on the telescope, something you can't do with space-based telescopes. This means that SOFIA will always have the cutting-edge detection methods (provided that funding exists).
 
+SOFIA had its first exoplanet observation in October 2013 with FLIPO, planet HD189733b, and achieved "space-based" quality of 185/160 ppm precision. As that was the first observation, they expect that the precision and accuracy of their instruments will only improve as they gain further understanding of them. They are currently working on GJ-1214b transit observations. Even when JWST goes up, people will still need alternatives for transit observations, and SOFIA is the perfect not-quite-space telescope.
+
 
 ---
-***Suborbital Demonstrations of Starshades* (Anthony Harness)**
+***Suborbital Demonstrations of Starshades* (Anthony Harness, University of Colorado-Boulder)**
 
+"The firefly and the lighthouse": an Earth-like planet is 10^10 times fainter than the host star and only 0.1 arcseconds away. This is comparable to trying to detect the light from a firefly that is flying in front of a lighthouse. A starshade is a way to mask out the light from the star and only detect the light from the planet. The benefit to this is that all of the light-masking is taking place outside of you telescope, so if you want full-light measurements (like from a spectrograph) at the same time you can do both at once.
+
+The community needs to do end-to-end system level tests of starshades so that we can prove that it works and and gain confidence amongst the community that starshades are worth it before we spend a lot of time and money making them. The best way to do this is to do real tests with real data on a smaller ground telescope to make a proof-of-concept.
+
+They wanted to try a zepplin - but alas, no such luck. They next moved to a vertical-takeoff, vertical-landing rocket that can hover and be used as a starshade platform for a ground telescope. They want to ensure that the starshade has cm accuracy and stability - if light keeps leaking around the edges, the measurements are ruined. They plan to use two small telescopes: one for measurements and one as a guiding telescope to make sure that the science telescope is still pointed at the star. Rockets are still a bit far off, however, so their first attempts will be a simple stationary starshade on a tall peak that can be angled to follow the star's path, and make use of a somewhat mobile telescope. They plan to attempt the stationary method this summer (2015), and their ultimate goal is to have the telescope 3km away from the starshade and detect the disk around Fomalhaut. Their initial tests have been able to detect a "planet" at a 10^-8 contrast to its "star".
 
 ---
 ***Multiband nulling coronography* (Brian A. Hicks)**
