@@ -42,7 +42,13 @@ They want to find out what is the most probable distance/location in the galaxy 
 
 
 ---
-***Constraining the Demographics of Exoplanets Using Results from Multiple Detection Methods* (Christian Clanton)**
+***Constraining the Demographics of Exoplanets Using Results from Multiple Detection Methods* (Christian Clanton, Ohio State University)**
+
+There have so far been about 150 confirmed exoplanets around M-dwarf stars. Confirming these planets really takes a collaborative effort between multiple detection methods. M-dwarfs are good targets for exoplanets because they are the most numerous of stars in the galaxy, RV and microlensing surveys are also more sensitive to lower-mass stars.
+
+There have been individual exoplanet censuses of M-dwarfs using separate methods. Some constrain the actual frequency of planets around these stars, other non-detections (direct imaging) place upper limits on this number. If they combine the results from these various techniques (microlensing + RV, and now direct imaging), they can confirm quite a few planets around M-dwarfs and get a constrain on long-period giant planets around these stars. They ask: is there a single planet population distribution that is consistent with all of these M-dwarf exoplanet surveys?
+
+They map the distribution of planets into distributions of the observables relevant to each technique (microlensing+RV+direct imaging). They then determine the number of expected detections for each survey, and compare that with the actual reported results and determine a likelihood of that particular planet population, and repeat for a variety of planet populations. They can then constrain the planetary mass function and power law slope of this distribution very well for M-dwarfs. What this means is that the results of the microlensing, RV, and direct imaging surveys are consistent with a single planet population distribution. They also want to include the results from *Kepler* to add constraints from transit surveys as well.
 
 
 ---
