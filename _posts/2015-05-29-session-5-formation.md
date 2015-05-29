@@ -43,7 +43,11 @@ Neptune mass objects won't create an instability but then again aren't massive e
 After the disk dissipates, these giant planets can scatter off one another to ejection/high eccentricities. So HL Tau system as we know it might not be long lived. This could explain all those RV planets with high eccentricities.
 
 ---
-***Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson)**
+***Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson, Cornell)**
+
+There are a lot of Hot Jupiters with significant star spin - orbit misalignment. One way of forming this is through a hierarchical triple system (planet at ~few AU and binary at ~100s of AU). If their mutual inclination is >40 degrees, the perturbations of the binary cause the planet's inclination and eccentricity to oscillate with the conserved quantity sqrt(1-e^2)*cos(i). This is the Lidov-Kozai mechanism.
+
+During these Kozai cycles, what's the stellar spin doing? It's definitely not sitting there. The spin angle chaotically evolves but eventually settles to a constant value as the planet's orbit decays. From population synthesis models, the fraction of systems resulting in a Hot Jupiter depends on the planet mass. Distribution in spin-orbit angle is always bimodal for Jupiter mass planets. Higher mass planets are typically more misaligned. It's difficult to produce Hot Saturns by Lidov-Kozai.
 
 ---
 ***Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)**
