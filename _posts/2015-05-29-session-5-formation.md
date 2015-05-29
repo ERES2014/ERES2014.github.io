@@ -50,7 +50,12 @@ There are a lot of Hot Jupiters with significant star spin - orbit misalignment.
 During these Kozai cycles, what's the stellar spin doing? It's definitely not sitting there. The spin angle chaotically evolves but eventually settles to a constant value as the planet's orbit decays. From population synthesis models, the fraction of systems resulting in a Hot Jupiter depends on the planet mass. Distribution in spin-orbit angle is always bimodal for Jupiter mass planets. Higher mass planets are typically more misaligned. It's difficult to produce Hot Saturns by Lidov-Kozai.
 
 ---
-***Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)**
+***Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch, Cornell)**
+Conveniently continuing from where Anderson left off! Can the stellar spin axis keep up with the planet orbital axis? If planet's orbital axis precesses rapidly, star sees this as a "time-averaged" spin axis, so spin axis precesses slowly ("non-adiabatic"). If planet's orbital axis is slow, the opposite effect happens (spin axis precessing rapidly, "adiabatic").
+
+So how is the chaotically evolving explained axis explained? Chaos is often a consequence of overlapping resonances. We can use Hamiltonian perturbation theory and get a resonance condition: averaged stellar spin precession = integer multiple of eccentricity oscillation rate.
+
+So what about the bimodality in the spin - orbit axis distribution? As planet's semi-major axis decays, you go from the "non-adiabatic" case to "adiabatic" case described above. Bimodality is the result of interaction with the N=0 resonance during this transition.
 
 ---
 ***Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)**
