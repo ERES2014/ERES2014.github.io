@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Instrumentation
-description: a description 
+description:
 tags: [ERES, Instrumentation]
 image:
   feature: banner.jpg
@@ -41,11 +41,19 @@ Now, they also test the reference spectra of I2 cells at PSU's Hobby-Eberly Tele
 ---
 ***First exoplanet transit observations with SOFIA* (Daniel Angerhausen, NASA Goddard)**
 
+Spectrophotometry in 30 seconds: sometimes we are lucky to observe edge on transits, but usually we are looking at grazing or secondary transits which are more difficult to characterize. Spectrophotometry looks at the transit light curve in many many wavelengths and then compiles that into a spectrum: so **spectro-** because they are creating a spectrum, and **photometry** because they are creating these spectra from photometric measurements of transits rather than a traditional spectrograph. This can tell them about the atmospheric composition, and atmospheric structure of HJs.
+
+SOFIA is a telescope on a plane, a Boeing 747-SP aircraft that flies higher than commercial aircraft. It's a good compromise between a ground-based telescope and a space-based telescope: they remove some of the atmosphere (99%) that plagues ground based observations, but they can't observe as often as the ground because of flight restrictions.
+ It operates in the NIR (0.3 micron to 1.6 mm). It has a wide wavelength regime and is mobile, which is good all for transit observations. "SOFIA is a space telescope that comes home every day" which lets them continually update the instrumentation on the telescope, something you can't do with space-based telescopes. This means that SOFIA will always have the cutting-edge detection methods (provided that funding exists).
+
+
 ---
 ***Suborbital Demonstrations of Starshades* (Anthony Harness)**
 
+
 ---
 ***Multiband nulling coronography* (Brian A. Hicks)**
+
 
 ---
 Time for coffee! And then on to the panel on alternate career paths, moderated by yours truly.
