@@ -13,10 +13,16 @@ This talk session is all about planet formation, and is co-chaired by Rachel Wor
 
 ---
 
-*Planet Formation in Binary Systems - how Solid is the 1 km Barrier?* (Kedron Silsbee)
+***Planet Formation in Binary Systems - how Solid is the 1 km Barrier?* (Kedron Silsbee, Princeton)**
+
+There are two types of binary gemoetries: S-type (circumprimary) and P-type (circumbinary). Binary planet formation is difficult. Planetesimal eccentricity gets excited to high levels and leads to high collision velocities (~1km/s). This problem isn't as bad when the binary and planetary semi-makor axes are very different. Maybe planet migration helps? They want to know where the planet disks form in the binary.
+
+Stellar binaries can induce secular perturbations in a non-Keplerian potential and an eccentric disk can arise. Disk gravity dominates eccentricity excitation and precession of the free eccentricity throughout much of the disk. Small planetesimals get aligned with the disk. Large planetesimals end up on orbits dictated by the gravity of the disk.
+
+A secular resonance (same time averaged precession rate between two objects) due to the combination of disk gravity and binary gravity at a few AU makes planetesimal coagulation very difficult at those separatons. In situ planet formation in Kepler-16 like systems is difficult even under the most favorable disk assumptions without invoking several km.sized initial planetesimals.
 
 ---
-*Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise)
+***Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise, University of Delaware)**
 
 ---
 *Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda)
