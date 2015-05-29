@@ -22,19 +22,19 @@ This talk session is all about planet formation, and is co-chaired by Rachel Wor
 ***Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda)**
 
 ---
-*Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo)
+***Dynamical stability of imaged planetary systems in formation: Application to HL Tau* (Daniel Tamayo)**
 
 ---
-*Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson)
+***Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson)**
 
 ---
-*Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)
+***Chaotic Dynamics of Stellar Spin Driven by Planets Undergoing Lidov-Kozai Oscillations* (Natalia I. Storch)**
 
 ---
-*Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)
+***Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)**
 
 ---
-*The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez)
+***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez)**
 
 ---
 And that's all folks! The only things left to do for this are clean up (boo!) and dinner (yay!)
