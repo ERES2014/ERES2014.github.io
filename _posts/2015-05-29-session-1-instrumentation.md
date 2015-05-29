@@ -31,6 +31,11 @@ The HPF environmental control system opens the path to their 1 m/s goal precisio
 ---
 ***Improve RV Precision through Better Spectral Modeling and Better Reference Spectra* (Sharon Xuesong Wang, PSU)**
 
+Detecting Earth is hard, especially in RV. the RV jitter in Keck's HIRES spectrograph for Kepler 78 is ~2 m/s. Their goal is to accurately model the stellar spectrum, and compare them to empirically derived reference spectrum. They then apply a "best guess" RV, convolve the model stellar spectrum with the instrumental PSF, and iterate until they find the best RV needed to match the reference spectrum. This reveals the radial velocity signal within the stellar spectrum, which allows them to detect planets.
+
+There are a number of things that can confuse this straightforward process. Firstly, barycentric correction terms (see Eastman & Wright 2014 for more details on this). But if you are detecting things from the ground, you may be detecting spectral lines that are not from teh star itself, but telluric lines from the Earth's atmosphere instead.  The telluric lines won't show the same radial velocity as the stellar lines, which can mess up an RV signal. You need to add telluric lines into your model, or completely mask out regions of telluric contamination, in order to get rid of this. But, there are also *micro-telluric* all over the visible and IR spectrum which cannot be masked out, so you *need* to accurately model the tellurics in order to improve your precision.
+
+
 ---
 ***First exoplanet transit observations with SOFIA* (Daniel Angerhausen, NASA Goddard)**
 
