@@ -58,10 +58,18 @@ So how is the chaotically evolving explained axis explained? Chaos is often a co
 So what about the bimodality in the spin - orbit axis distribution? As planet's semi-major axis decays, you go from the "non-adiabatic" case to "adiabatic" case described above. Bimodality is the result of interaction with the N=0 resonance during this transition.
 
 ---
-***Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang)**
+***Eccentricity Excitation of Giant Planets: Shedding Light on the Eccentricity Valley* (David Tsang, McGill University)**
+
+How do disks affect eccentricity? You can think of it as changing the energy - angular momentum ratio. Outer Lindblad resonances like to pump eccentricity, inner Lindblad resonances like to damp eccentricity. If a gap is cleared, inner Lindblad resonances go away, but non-co-orbital corotation resonances damp eccentricity. Gap heating can cause eccentricity excitation.
+
+Let's jump to a planetary census. There seems to be a lack of giant eccentric planets around low metallicity stars. Disk self-shadowing can prevent gap heating. No gap heating, no eccentric planets, an explanation for this paucity of eccentric giant planets.
+
+Note: you can't just assume eccentricity is zero for giant planets when starting post-disk evolution.
 
 ---
-***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez)**
+***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez, Cornell)**
+
+
 
 ---
 And that's all folks! The only things left to do for this are clean up (boo!) and dinner (yay!)
