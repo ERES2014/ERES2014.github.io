@@ -20,7 +20,7 @@ Our speakers are:
 **Josh Shiode (JS):** completed his PhD research at the University of California, Berkeley.
 He is currently the Senior Government Relations Officer at the AAAS. Josh was also the John N. Bahcall Public Policy Fellow of the AAS.
 
-**Daniel Angerhausen (DA):** received his PhD from the German Sofia Institute and then from CalTech. He then moved on to a postdoc at RPI, and is now an NPP fellow at Goddard. He in the n the process of starting up a company that he will tell you more about.
+**Daniel Angerhausen (DA):** received his PhD from the German Sofia Institute. He then moved on to a postdoc at RPI, and is now an NPP fellow at Goddard. He in the n the process of starting up a company that he will tell you more about.
 
 **Dave Spiegel (DS):** received his PhD in Astronomy from Columbia University, and subsequently took postdocs at Princeton and at the Institute for Advanced Study. He now works as an R&D Data Scientist at Sum Labs.
 
