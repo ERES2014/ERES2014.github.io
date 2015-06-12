@@ -127,6 +127,5 @@ The AAS has a lot of alternative career resources. Also Jobs for Astronomers Fac
 
 **(EJ)** Please feel free to contact me
   
->>>>>>> 07ef817b9f2ba518a8947e52295c5b2247852227
 
 

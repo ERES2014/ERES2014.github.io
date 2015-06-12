@@ -21,10 +21,14 @@ Stellar binaries can induce secular perturbations in a non-Keplerian potential a
 
 A secular resonance (same time averaged precession rate between two objects) due to the combination of disk gravity and binary gravity at a few AU makes planetesimal coagulation very difficult at those separatons. In situ planet formation in Kepler-16 like systems is difficult even under the most favorable disk assumptions without invoking several km.sized initial planetesimals.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S8NlODQIzjA" frameborder="0" allowfullscreen></iframe>
+
 ---
 ***Effects of Disk Photoevaporation on Planet Migration* (Alexander W. Wise, University of Delaware)**
 
 In type-II migration, material entering a gap formed by a giant planet interacts with the outermost resonances. The asymmetrical strength of the inner and outer resonances drives the giant planet inward. Alexander is looking at how photoevaporation erodes the surface density of the disk and how that affects migration of the planet. Depending on what part of the disk gets eroded, the planet can stop migrating (outer resonant locations) or migrate even quicker (inner resonant locations get eroded).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7e9-vWPj58" frameborder="0" allowfullscreen></iframe>
 
 ---
 ***Vortices in Dead Zones of Protoplanetary Disks* (Ryan Miranda, Cornell)**
@@ -41,6 +45,8 @@ ALMA got this spectacular image of concentric gaps in the HL Tau disk. Are we re
 Neptune mass objects won't create an instability but then again aren't massive enough to carve these gaps. It turns out, the outer three gaps are in locations associated with resonances with the inner gaps. But the gaps are eccentric! This can arise when planets' eccentricities are caught between being excited from a MMR and being damped from the disk. Perhaps the planets got caught in resonance and grew around the same time.
 
 After the disk dissipates, these giant planets can scatter off one another to ejection/high eccentricities. So HL Tau system as we know it might not be long lived. This could explain all those RV planets with high eccentricities.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02SG7t9O9ng" frameborder="0" allowfullscreen></iframe>
 
 ---
 ***Formation of Misaligned Hot Jupiters in Stellar Binaries* (Kassandra Anderson, Cornell)**
@@ -66,12 +72,16 @@ Let's jump to a planetary census. There seems to be a lack of giant eccentric pl
 
 Note: you can't just assume eccentricity is zero for giant planets when starting post-disk evolution.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy-a6BQmY0c" frameborder="0" allowfullscreen></iframe>
+
 ---
 ***The Habitable Zones of Pre-Main-Sequence Stars* (Ramses Ramirez, Cornell)**
 
 Pre-main-sequence M-stars are many times more luminous than main-sequence and this part of their lifetime is very long (up to 1 Gyr). For the pre-MS Sun, the outer edge of the habitable zone is around 2.5 AU. HZs for these larger luminosity stars are put further out, which would make it easier to directly resolve these planets.
 
 Some complications. Long-lasting runaway conditions are triggered during pre MS-on Venus, Earth, and Mars. M dwarfs will have smaller disks so planets won't be able to accrete more volatiles. But late heavy bombardment can replenish water on planet's surfaces.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_qx7EZLFkM" frameborder="0" allowfullscreen></iframe>
 
 ---
 And that's all folks! The only things left to do for this are clean up (boo!) and dinner (yay!)
