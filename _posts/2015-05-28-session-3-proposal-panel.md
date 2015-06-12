@@ -9,6 +9,8 @@ image:
   creditlink: 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/74KTm_MduDQ" frameborder="0" allowfullscreen></iframe>
+
 The first of the panel discussions is about how to write effective followship and grant applications. Members of the panel have all applied for, and won, various fellowships. They will be talking about what makes an application effective, important things to think about, and other tips and tricks learned through experience.
 
 The slides from this session will be posted to the ERES website soon.

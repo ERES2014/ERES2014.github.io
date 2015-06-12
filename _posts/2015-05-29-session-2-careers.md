@@ -9,6 +9,8 @@ image:
   creditlink: 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uH4IvdogqmQ" frameborder="0" allowfullscreen></iframe>
+
 This session is our "Alternate Career Panel," where we've invited three speakers who have all completed an astronomy PhD and then chosen to enter a career outside of a large, research-based academic environment. Our three speakers will be providing their perspectives on careers in a smaller academic environment, industry, and science policy. 
 
 Note: as Kimberly is moderating this panel, your blog post for this session is written by Robert Morehead.
