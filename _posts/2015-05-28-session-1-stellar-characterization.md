@@ -22,6 +22,8 @@ Technique 2: using stellar spectroscopy to get the stellar mass. Get a spectrum 
 
 In the future, we can combine dynamical masses from ALMA/SMA. The current sample is about 20 stars, and they hope to calibrate the early HR diagram.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WONJZCImV5I" frameborder="0" allowfullscreen></iframe>
+
 ---
 ***Defining the Range of Chemistry for Exoplanet Interiors* (John M. Brewer, Yale)**
 
@@ -34,6 +36,8 @@ There doesn't seem to be any trends in derived log(g) with other parameters, mea
 For asteroids, they test their method using the ratio of carbon to oxygen (C/O), since that ratio is highly dependent on initial Solar composition. In their stellar sample, they find very few high C/O ratio stars (very few diamond planets, boo).
 
 Exoplanet properties require accurate knowledge of the host stars, and the stellar log(g) is a key parameter to characterizing the star. Look out for a catalog to be published with all these parameters soon
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRw6kk4eyM8" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -53,6 +57,8 @@ This system is a T-Tauri star + hot Jupiter. The transits that were observed in 
 The star is rotationally deformed - that is, it's rotating so fast that it more closely resembles a football than a soccer ball, and the central band of the star is gravity darkened, while the poles are brightened. There is also a precession of the orbital axis angle relative to the stellar spin axis, called "nodal precession". Together, these two phenomena can explain the time-variable transit lightcurves. Since this system fits this scheme so well, it's an ideal benchmark case for this model. Previous work in this area does not favor such a synchronized state (the two components of the model varying in a synchronized way) with the serious misalignment found in PTFO 8-8695. 
 
 Their method of characterizing the synchronicity of the nodal precession and the gravity darkening is expected to unveil the properties of younger or hotter stars, which are known to be more rapidly rotating than older or cooler ones.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nEGC2oFyGMQ" frameborder="0" allowfullscreen></iframe>
 
 ---
 Next session is the first of our Planetary Atmospheres talks. Stay tuned!
