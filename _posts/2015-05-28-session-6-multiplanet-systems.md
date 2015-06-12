@@ -20,6 +20,8 @@ To characterize TTV transiting planets (*Kepler*-79 in particular), they can ass
 
 TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2% errors. Knowing the star really well, they can characterize the planets very well. Planet d in the system has a super-Earth mass, but a density of only 0.1 g/cm^3, comparable to atmospherics density on Earth's surface! This means that the planet must have a much larger radius. When we compare the sample of planets characterized by RV to those by TTV, we see that TTV is looking at a very different sample of planets. Each method has their own biases, so they are finding different types of planets. With TTVs we can find super-Earth massed planets at up to 200 day orbital period, but just because they are super-Earth mass, doesn't mean that they are rocky! They can have a huge range of bulk densities.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KMRWoLZfDXE" frameborder="0" allowfullscreen></iframe>
+
 ---
 ***On the Origin and Evolution of the Kepler-36 System* (Thomas Rimlinger, UMD)**
 
@@ -28,6 +30,8 @@ TTVs also allow them to characterize the star *Kepler*-79 very well, with only 2
 Theory: protoplanets form far out and migrate inwards, are bombarded by Mars-sized embryos, one gets its mantle stripped, one gets mass accreted. However, few simulations result in a 7:6 resonance. This makes this particular method very unlikely, because there are a few serendipitous things that must happen to make this system via this method.
 
 Their method: take this theory above, and modify it. Their method would not require mantle stripping, originally starting in the strange 7:6 resonance, the planets don't have to swap places. They would start in the outer parts in a 2:1 resonance, and migrate inwards. The inner planet then just sweeps up leftover rocky material to become the super-Earth, and the outer one is left as a lower density material. They modeled this in a simulation and were able to accurately replicate this system with minimal fine-tuning of the model.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BKtE6khp3j0" frameborder="0" allowfullscreen></iframe>
 
 
 ---
@@ -39,6 +43,7 @@ Are these many planet, cold systems really stable over long times? They simulate
 
 They conclude that some of the *Kepler* multiplanet systems are at the edge of stability, and so they must have been "sculpted" over eons. There must have once been many more multiplanet systems that developed in unstable formations and dynamically evolved to their lower-number planet states.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1kwLhPxI0-I" frameborder="0" allowfullscreen></iframe>
 
 ---
 ***Implications for the False-Positive Rate in Kepler Planet Systems From Transit Duration Ratios* (Robert C. Morehead, PSU)**
@@ -49,6 +54,7 @@ The ratio of transit duration can probe whether two planets orbit the same star.
 
 They find that most multiplanet systems have a high probability of being associated with the same star. Now, the problem with this is that the parameters used here are the original *Kepler* stellar parameters, ignoring any followup observations made. So, while they conclude that most multis are likely around the same star, there is always the chance that there is a blended source and therefore a more complicated system than one might originally think.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CP2eSSh4Mrs" frameborder="0" allowfullscreen></iframe>
 
 ---
 This concludes our science talks for the day. After this we have another poster pop session and our poster session, followed by dinner.

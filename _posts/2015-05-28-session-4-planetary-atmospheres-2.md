@@ -39,6 +39,8 @@ MOS = Multi-object spectroscopy. The two spectra are the target and the referenc
 
 There are a number of observational challenges that they face during their analysis, and they are finding clever ways of solving each and every problem that arises. They can find through this method that XO-2b is a cloud-free hot Jupiter. Their first important results is that while WASP-4b and XO-2b are very similar planets in some respects, they have very different atmospheric structures, and they can detect that.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JaTUBPTBc4E" frameborder="0" allowfullscreen></iframe>
+
 ---
 ***Hot and Heavy: Transiting Brown Dwarfs* (Thomas Beatty, PSU)**
 

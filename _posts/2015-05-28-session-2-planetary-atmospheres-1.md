@@ -20,6 +20,7 @@ The Wide-Field Infrared Survey Explorer (WISE) is an all-sky survey which is map
 
 They use *HST* to take spectra of their Y dwarf spectra in the Y-band (Why the Y-band of Wise Ys?) because as you get to lower and lower temperature, there is a very distinctive absorption feature in the ammonia band that appears in the Y-band in spectral models. Their question is: as you go to lower temperatures, why does that absorption feature appear? Where does that ammonia go? Their answer is vertical mixing: the ammonia that would normally appear in the upper layers of the Y-dwarfs and cause that ammonia line are getting mixed into the lower layers, and so there is less ammonia than is expected. However, simultaneously fitting the near- and mid-infrared images is still an issue, as they want to fit all distinctive features at the same time. That issue is ongoing.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oJT9HhTpAuI" frameborder="0" allowfullscreen></iframe>
 
 ---
 ***Hot Jupiter Atmospheres Revealed with HST/WFC3* (Laura Kreidberg, University of Chicago)**
@@ -32,6 +33,8 @@ WASP-12b, also a HJ planet, is the "canonical" carbon rich planet, where the C/O
 
 In the future, they (and we) need to study the whole planet to characterize the atmosphere (not just the temperature/pressure structure, or the atmosphere) but the whole thing at once. We need to reconcile our results from the emission spectra and the transmission spectra. They want to break the degeneracy between models of temperature/pressure and composition. Hopefully breakthroughs will be forthcoming!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JWNLhpctjRc" frameborder="0" allowfullscreen></iframe>
+
 
 ---
 ***Emission and Phase Curves from 3D Exoplanet Atmospheres* (Y. Katherina Feng, UC Santa Cruz)**
@@ -42,6 +45,8 @@ Katherina (a recent PSU graduate) is talking about the emission from the planeta
 They are testing a new 3D radiative transfer code "SPARC" to test the opacity grids against the 1D models, and have found that there are some discrepancies. If they use the same opacity grids as the 1D models do, the 3D code and the 1D codes match more closely. They apply this to WASP-43b and find that the assumed inclination of the planet has little effect on the spectral solution (they then assume an edge-on system).
 
 When they look at the atmospheres in a variety of wavelengths and phases, they see that atmospheres are really complex 3D structures, and a 1D analysis of the atmosphere may not cut it. First, is there a difference between the day and night sides of the planets? the 3D model does show differences between the day and night side profiles. Is the 1D model biased towards the day side? Yes, it is. Our measurements in should essentially be an average of the day and night side, but 1D models are more biased towards day side values. They plan to test the limits of exoplanet spectroscopy using their new 3D models and ferreting out the biases in our 1D retrievals.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKA0PMGcB9w" frameborder="0" allowfullscreen></iframe>
 
 
 ---
